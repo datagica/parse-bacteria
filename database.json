@@ -1,0 +1,7628 @@
+[
+  {
+    "id": "abiotrophia",
+    "label": {
+      "en": "Abiotrophia"
+    },
+    "description": {
+      "en": "Abiotrophia is a genus of lactic acid bacteria, a family in the phylum Firmicutes (Bacteria)"
+    },
+    "aliases": {
+      "en": [
+        "Abiotrophia"
+      ]
+    },
+    "phylum": "Firmicutes",
+    "category": "genus"
+  },
+  {
+    "id": "abiotrophia-adiacens",
+    "label": {
+      "en": "Abiotrophia adiacens"
+    },
+    "description": {
+      "en": "Bouvet et al. 1989; Kawamura et al. 1995"
+    },
+    "aliases": {
+      "en": [
+        "Abiotrophia adiacens",
+        "A adiacens",
+        "A. adiacens"
+      ]
+    },
+    "genus": "Abiotrophia",
+    "category": "species"
+  },
+  {
+    "id": "abiotrophia-defectiva",
+    "label": {
+      "en": "Abiotrophia defectiva"
+    },
+    "description": {
+      "en": "Bouvet et al. 1989; Kawamura et al. 1995"
+    },
+    "aliases": {
+      "en": [
+        "Abiotrophia defectiva",
+        "A defectiva",
+        "A. defectiva"
+      ]
+    },
+    "genus": "Abiotrophia",
+    "category": "species"
+  },
+    {
+    "id": "abiotrophia-balaenopterae",
+    "label": {
+      "en": "Abiotrophia balaenopterae"
+    },
+    "description": {
+      "en": "Lawson et al. 1999"
+    },
+    "aliases": {
+      "en": [
+        "Abiotrophia balaenopterae",
+        "A balaenopterae",
+        "A. balaenopterae"
+      ]
+    },
+    "genus": "Abiotrophia",
+    "category": "species"
+  },
+      {
+    "id": "abiotrophia-elegans",
+    "label": {
+      "en": "Abiotrophia elegans"
+    },
+    "description": {
+      "en": "Roggenkamp et al. 1999"
+    },
+    "aliases": {
+      "en": [
+        "Abiotrophia elegans",
+        "A elegans",
+        "A. elegans"
+      ]
+    },
+    "genus": "Abiotrophia",
+    "category": "species"
+  },
+  {
+    "id": "acanthopleuribacter",
+    "label": {
+      "en": "Acanthopleuribacter"
+    },
+    "description": {
+      "en": "Acanthopleuribacter"
+    },
+    "aliases": {
+      "en": [
+        "Acanthopleuribacter"
+      ]
+    },
+    "phylum": "Acidobacteria",
+    "category": "genus"
+  },
+  {
+    "id": "acanthopleuribacter-pedis",
+    "label": {
+      "en": "Acanthopleuribacter pedis"
+    },
+    "description": {
+      "en": "Fukunaga et al. 2008"
+    },
+    "aliases": {
+      "en": [
+        "Acanthopleuribacter pedis",
+        "A pedis",
+        "A. pedis"
+      ]
+    },
+    "genus": "Acanthopleuribacter",
+    "category": "species"
+  },
+  {
+    "id": "acaricomes",
+    "label": {
+      "en": "Acaricomes"
+    },
+    "description": {
+      "en": "Acaricomes"
+    },
+    "aliases": {
+      "en": [
+        "Acaricomes"
+      ]
+    },
+    "phylum": "Actinobacteria",
+    "category": "genus"
+  },
+  {
+    "id": "acaricomes-phytoseiuli",
+    "label": {
+      "en": "Acaricomes phytoseiuli"
+    },
+    "description": {
+      "en": "Pukall et al. 2006"
+    },
+    "aliases": {
+      "en": [
+        "Acaricomes phytoseiuli",
+        "A phytoseiuli",
+        "A. phytoseiuli"
+      ]
+    },
+    "genus": "Acaricomes",
+    "category": "species"
+  },
+  {
+    "id": "acetanaerobacterium",
+    "label": {
+      "en": "Acetanaerobacterium"
+    },
+    "description": {
+      "en": "Acetanaerobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Acetanaerobacterium"
+      ]
+    },
+    "phylum": "Firmicutes",
+    "category": "genus"
+  },
+    {
+    "id": "acetanaerobacterium-elongatum",
+    "label": {
+      "en": "Acetanaerobacterium elongatum"
+    },
+    "description": {
+      "en": "Acetanaerobacterium elongatum"
+    },
+    "aliases": {
+      "en": [
+        "Acetanaerobacterium elongatum",
+        "A elongatum",
+        "A. elongatum"
+      ]
+    },
+    "genus": "Acetanaerobacterium",
+    "category": "species"
+  },
+  {
+    "id": "acetitomaculum",
+    "label": {
+      "en": "Acetitomaculum"
+    },
+    "description": {
+      "en": "Acetitomaculum"
+    },
+    "aliases": {
+      "en": [
+        "Acetitomaculum"
+      ]
+    },
+    "phylum": "Firmicutes",
+    "category": "genus"
+  },
+    {
+    "id": "acetitomaculum-ruminis",
+    "label": {
+      "en": "Acetitomaculum ruminis"
+    },
+    "description": {
+      "en": "Acetitomaculum ruminis"
+    },
+    "aliases": {
+      "en": [
+        "Acetitomaculum"
+      ]
+    },
+    "genus": "acetitomaculum",
+    "category": "species"
+  },
+  {
+    "id": "acetoanaerobium",
+    "label": {
+      "en": "Acetoanaerobium"
+    },
+    "description": {
+      "en": "Sleat et al. 1985"
+    },
+    "aliases": {
+      "en": [
+        "Acetoanaerobium"
+      ]
+    },
+    "phylum": "Firmicutes",
+    "category": "genus"
+  },
+  {
+    "id": "acetoanaerobium-noterae",
+    "label": {
+      "en": "Acetoanaerobium noterae"
+    },
+    "description": {
+      "en": "Anaerobic bacterium that produces acetate from H2 and CO2 (Sleat et al. 1985)."
+    },
+    "aliases": {
+      "en": [
+        "Acetoanaerobium noterae",
+        "A noterae",
+        "A. noterae"
+      ]
+    },
+    "phylum": "Firmicutes",
+    "category": "genus"
+  },
+  {
+    "id": "acetobacter",
+    "label": {
+      "en": "Acetobacter"
+    },
+    "description": {
+      "en": "Acetobacter"
+    },
+    "aliases": {
+      "en": [
+        "Acetobacter"
+      ]
+    },
+    "phylum": "Proteobacteria",
+    "category": "genus"
+  },
+  {
+    "id": "acetobacter-aceti",
+    "label": {
+      "en": "Acetobacter aceti"
+    },
+    "description": {
+      "en": "Used in vinegar production by converting the ethanol in wine into acetic acid."
+    },
+    "aliases": {
+      "en": [
+        "Acetobacter aceti",
+        "A aceti",
+        "A. aceti"
+      ]
+    },
+    "genus": "acetobacter",
+    "category": "species"
+  },
+    {
+    "id": "acetobacter-cerevisiae",
+    "label": {
+      "en": "Acetobacter cerevisiae"
+    },
+    "description": {
+      "en": ""
+    },
+    "aliases": {
+      "en": [
+        "Acetobacter cerevisiae",
+        "A cerevisiae",
+        "A. cerevisiae"
+      ]
+    },
+    "genus": "acetobacter",
+    "category": "species"
+  },
+   {
+    "id": "acetobacter-pomorum",
+    "label": {
+      "en": "Acetobacter pomorum"
+    },
+    "description": {
+      "en": ""
+    },
+    "aliases": {
+      "en": [
+        "Acetobacter pomorum",
+        "A pomorum",
+        "A. pomorum"
+      ]
+    },
+    "genus": "acetobacter",
+    "category": "species"
+  },
+     {
+    "id": "acetobacter-malorum",
+    "label": {
+      "en": "Acetobacter malorum"
+    },
+    "description": {
+      "en": ""
+    },
+    "aliases": {
+      "en": [
+        "Acetobacter malorum",
+        "A malorum",
+        "A. malorum"
+      ]
+    },
+    "genus": "acetobacter",
+    "category": "species"
+  },
+       {
+    "id": "acetobacter-oeni",
+    "label": {
+      "en": "Acetobacter oeni"
+    },
+    "description": {
+      "en": ""
+    },
+    "aliases": {
+      "en": [
+        "Acetobacter oeni",
+        "A oeni",
+        "A. oeni"
+      ]
+    },
+    "genus": "acetobacter",
+    "category": "species"
+  },
+  {
+    "id": "acetofilamentum",
+    "label": {
+      "en": "Acetofilamentum"
+    },
+    "description": {
+      "en": "An acetate-producing, filamentous, threadlike bacterium (Dietrich et al. 1989)"
+    },
+    "aliases": {
+      "en": [
+        "Acetofilamentum"
+      ]
+    },
+    "phylum": "Bacteroidetes",
+    "category": "genus"
+  },
+    {
+    "id": "acetofilamentum-rigidum",
+    "label": {
+      "en": "Acetofilamentum rigidum"
+    },
+    "description": {
+      "en": "An acetate-producing, filamentous, threadlike bacterium (Dietrich et al. 1989)"
+    },
+    "aliases": {
+      "en": [
+        "Acetofilamentum rigidum",
+        "A rigidum",
+        "A. rigidum"
+      ]
+    },
+    "genus": "Acetofilamentum",
+    "category": "species"
+  },
+  {
+    "id": "acetohalobium",
+    "label": {
+      "en": "Acetohalobium"
+    },
+    "description": {
+      "en": "Acetohalobium"
+    },
+    "aliases": {
+      "en": [
+        "Acetohalobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acetomicrobium",
+    "label": {
+      "en": "Acetomicrobium"
+    },
+    "description": {
+      "en": "Acetomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Acetomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acetonema",
+    "label": {
+      "en": "Acetonema"
+    },
+    "description": {
+      "en": "Acetonema"
+    },
+    "aliases": {
+      "en": [
+        "Acetonema"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acetothermus",
+    "label": {
+      "en": "Acetothermus"
+    },
+    "description": {
+      "en": "Acetothermus"
+    },
+    "aliases": {
+      "en": [
+        "Acetothermus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "achromatium",
+    "label": {
+      "en": "Achromatium"
+    },
+    "description": {
+      "en": "Achromatium"
+    },
+    "aliases": {
+      "en": [
+        "Achromatium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "achromobacter",
+    "label": {
+      "en": "Achromobacter"
+    },
+    "description": {
+      "en": "Achromobacter"
+    },
+    "aliases": {
+      "en": [
+        "Achromobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidaminobacter",
+    "label": {
+      "en": "Acidaminobacter"
+    },
+    "description": {
+      "en": "Acidaminobacter"
+    },
+    "aliases": {
+      "en": [
+        "Acidaminobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidaminococcus",
+    "label": {
+      "en": "Acidaminococcus"
+    },
+    "description": {
+      "en": "Acidaminococcus"
+    },
+    "aliases": {
+      "en": [
+        "Acidaminococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidicaldus",
+    "label": {
+      "en": "Acidicaldus"
+    },
+    "description": {
+      "en": "Acidicaldus"
+    },
+    "aliases": {
+      "en": [
+        "Acidicaldus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidimicrobium",
+    "label": {
+      "en": "Acidimicrobium"
+    },
+    "description": {
+      "en": "Acidimicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Acidimicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidiphilium",
+    "label": {
+      "en": "Acidiphilium"
+    },
+    "description": {
+      "en": "Acidiphilium"
+    },
+    "aliases": {
+      "en": [
+        "Acidiphilium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidisoma",
+    "label": {
+      "en": "Acidisoma"
+    },
+    "description": {
+      "en": "Acidisoma"
+    },
+    "aliases": {
+      "en": [
+        "Acidisoma"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidisphaera",
+    "label": {
+      "en": "Acidisphaera"
+    },
+    "description": {
+      "en": "Acidisphaera"
+    },
+    "aliases": {
+      "en": [
+        "Acidisphaera"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidocella",
+    "label": {
+      "en": "Acidocella"
+    },
+    "description": {
+      "en": "Acidocella"
+    },
+    "aliases": {
+      "en": [
+        "Acidocella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidomonas",
+    "label": {
+      "en": "Acidomonas"
+    },
+    "description": {
+      "en": "Acidomonas"
+    },
+    "aliases": {
+      "en": [
+        "Acidomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidothermus",
+    "label": {
+      "en": "Acidothermus"
+    },
+    "description": {
+      "en": "Acidothermus"
+    },
+    "aliases": {
+      "en": [
+        "Acidothermus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acidovorax",
+    "label": {
+      "en": "Acidovorax"
+    },
+    "description": {
+      "en": "Acidovorax"
+    },
+    "aliases": {
+      "en": [
+        "Acidovorax"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acinetobacter",
+    "label": {
+      "en": "Acinetobacter"
+    },
+    "description": {
+      "en": "Acinetobacter"
+    },
+    "aliases": {
+      "en": [
+        "Acinetobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkanindiges",
+    "label": {
+      "en": "Alkanindiges"
+    },
+    "description": {
+      "en": "Alkanindiges"
+    },
+    "aliases": {
+      "en": [
+        "Alkanindiges"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "acrocarpospora",
+    "label": {
+      "en": "Acrocarpospora"
+    },
+    "description": {
+      "en": "Acrocarpospora"
+    },
+    "aliases": {
+      "en": [
+        "Acrocarpospora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actibacter",
+    "label": {
+      "en": "Actibacter"
+    },
+    "description": {
+      "en": "Actibacter"
+    },
+    "aliases": {
+      "en": [
+        "Actibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinaurispora",
+    "label": {
+      "en": "Actinaurispora"
+    },
+    "description": {
+      "en": "Actinaurispora"
+    },
+    "aliases": {
+      "en": [
+        "Actinaurispora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinoallomurus",
+    "label": {
+      "en": "Actinoallomurus"
+    },
+    "description": {
+      "en": "Actinoallomurus"
+    },
+    "aliases": {
+      "en": [
+        "Actinoallomurus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinoalloteichus",
+    "label": {
+      "en": "Actinoalloteichus"
+    },
+    "description": {
+      "en": "Actinoalloteichus"
+    },
+    "aliases": {
+      "en": [
+        "Actinoalloteichus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinobacillus",
+    "label": {
+      "en": "Actinobacillus"
+    },
+    "description": {
+      "en": "Actinobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Actinobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinobaculum",
+    "label": {
+      "en": "Actinobaculum"
+    },
+    "description": {
+      "en": "Actinobaculum"
+    },
+    "aliases": {
+      "en": [
+        "Actinobaculum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinocatenispora",
+    "label": {
+      "en": "Actinocatenispora"
+    },
+    "description": {
+      "en": "Actinocatenispora"
+    },
+    "aliases": {
+      "en": [
+        "Actinocatenispora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinocorallia",
+    "label": {
+      "en": "Actinocorallia"
+    },
+    "description": {
+      "en": "Actinocorallia"
+    },
+    "aliases": {
+      "en": [
+        "Actinocorallia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinokineospora",
+    "label": {
+      "en": "Actinokineospora"
+    },
+    "description": {
+      "en": "Actinokineospora"
+    },
+    "aliases": {
+      "en": [
+        "Actinokineospora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinomycetospora",
+    "label": {
+      "en": "Actinomycetospora"
+    },
+    "description": {
+      "en": "Actinomycetospora"
+    },
+    "aliases": {
+      "en": [
+        "Actinomycetospora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinophytocola",
+    "label": {
+      "en": "Actinophytocola"
+    },
+    "description": {
+      "en": "Actinophytocola"
+    },
+    "aliases": {
+      "en": [
+        "Actinophytocola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinoplanes",
+    "label": {
+      "en": "Actinoplanes"
+    },
+    "description": {
+      "en": "Actinoplanes"
+    },
+    "aliases": {
+      "en": [
+        "Actinoplanes"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinopolymorpha",
+    "label": {
+      "en": "Actinopolymorpha"
+    },
+    "description": {
+      "en": "Actinopolymorpha"
+    },
+    "aliases": {
+      "en": [
+        "Actinopolymorpha"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinopolyspora",
+    "label": {
+      "en": "Actinopolyspora"
+    },
+    "description": {
+      "en": "Actinopolyspora"
+    },
+    "aliases": {
+      "en": [
+        "Actinopolyspora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinospica",
+    "label": {
+      "en": "Actinospica"
+    },
+    "description": {
+      "en": "Actinospica"
+    },
+    "aliases": {
+      "en": [
+        "Actinospica"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinosporangium",
+    "label": {
+      "en": "Actinosporangium"
+    },
+    "description": {
+      "en": "Actinosporangium"
+    },
+    "aliases": {
+      "en": [
+        "Actinosporangium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinosynnema",
+    "label": {
+      "en": "Actinosynnema"
+    },
+    "description": {
+      "en": "Actinosynnema"
+    },
+    "aliases": {
+      "en": [
+        "Actinosynnema"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "actinotalea",
+    "label": {
+      "en": "Actinotalea"
+    },
+    "description": {
+      "en": "Actinotalea"
+    },
+    "aliases": {
+      "en": [
+        "Actinotalea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "adhaeribacter",
+    "label": {
+      "en": "Adhaeribacter"
+    },
+    "description": {
+      "en": "Adhaeribacter"
+    },
+    "aliases": {
+      "en": [
+        "Adhaeribacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "adlercreutzia",
+    "label": {
+      "en": "Adlercreutzia"
+    },
+    "description": {
+      "en": "Adlercreutzia"
+    },
+    "aliases": {
+      "en": [
+        "Adlercreutzia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "advenella",
+    "label": {
+      "en": "Advenella"
+    },
+    "description": {
+      "en": "Advenella"
+    },
+    "aliases": {
+      "en": [
+        "Advenella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aegyptianella",
+    "label": {
+      "en": "Aegyptianella"
+    },
+    "description": {
+      "en": "Aegyptianella"
+    },
+    "aliases": {
+      "en": [
+        "Aegyptianella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aeribacillus",
+    "label": {
+      "en": "Aeribacillus"
+    },
+    "description": {
+      "en": "Aeribacillus"
+    },
+    "aliases": {
+      "en": [
+        "Aeribacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aeriscardovia",
+    "label": {
+      "en": "Aeriscardovia"
+    },
+    "description": {
+      "en": "Aeriscardovia"
+    },
+    "aliases": {
+      "en": [
+        "Aeriscardovia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aerococcus",
+    "label": {
+      "en": "Aerococcus"
+    },
+    "description": {
+      "en": "Aerococcus"
+    },
+    "aliases": {
+      "en": [
+        "Aerococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aeromonas",
+    "label": {
+      "en": "Aeromonas"
+    },
+    "description": {
+      "en": "Aeromonas"
+    },
+    "aliases": {
+      "en": [
+        "Aeromonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aestuariibacter",
+    "label": {
+      "en": "Aestuariibacter"
+    },
+    "description": {
+      "en": "Aestuariibacter"
+    },
+    "aliases": {
+      "en": [
+        "Aestuariibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aestuariicola",
+    "label": {
+      "en": "Aestuariicola"
+    },
+    "description": {
+      "en": "Aestuariicola"
+    },
+    "aliases": {
+      "en": [
+        "Aestuariicola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aestuariimicrobium",
+    "label": {
+      "en": "Aestuariimicrobium"
+    },
+    "description": {
+      "en": "Aestuariimicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Aestuariimicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aestuariispira",
+    "label": {
+      "en": "Aestuariispira"
+    },
+    "description": {
+      "en": "Aestuariispira"
+    },
+    "aliases": {
+      "en": [
+        "Aestuariispira"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "afifella",
+    "label": {
+      "en": "Afifella"
+    },
+    "description": {
+      "en": "Afifella"
+    },
+    "aliases": {
+      "en": [
+        "Afifella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "afipia",
+    "label": {
+      "en": "Afipia"
+    },
+    "description": {
+      "en": "Afipia"
+    },
+    "aliases": {
+      "en": [
+        "Afipia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agaricicola",
+    "label": {
+      "en": "Agaricicola"
+    },
+    "description": {
+      "en": "Agaricicola"
+    },
+    "aliases": {
+      "en": [
+        "Agaricicola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agarivorans",
+    "label": {
+      "en": "Agarivorans"
+    },
+    "description": {
+      "en": "Agarivorans"
+    },
+    "aliases": {
+      "en": [
+        "Agarivorans"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aggregatibacter",
+    "label": {
+      "en": "Aggregatibacter"
+    },
+    "description": {
+      "en": "Aggregatibacter"
+    },
+    "aliases": {
+      "en": [
+        "Aggregatibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agitococcus",
+    "label": {
+      "en": "Agitococcus"
+    },
+    "description": {
+      "en": "Agitococcus"
+    },
+    "aliases": {
+      "en": [
+        "Agitococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agreia",
+    "label": {
+      "en": "Agreia"
+    },
+    "description": {
+      "en": "Agreia"
+    },
+    "aliases": {
+      "en": [
+        "Agreia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agrobacterium",
+    "label": {
+      "en": "Agrobacterium"
+    },
+    "description": {
+      "en": "Agrobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Agrobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agrococcus",
+    "label": {
+      "en": "Agrococcus"
+    },
+    "description": {
+      "en": "Agrococcus"
+    },
+    "aliases": {
+      "en": [
+        "Agrococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "agromyces",
+    "label": {
+      "en": "Agromyces"
+    },
+    "description": {
+      "en": "Agromyces"
+    },
+    "aliases": {
+      "en": [
+        "Agromyces"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ahrensia",
+    "label": {
+      "en": "Ahrensia"
+    },
+    "description": {
+      "en": "Ahrensia"
+    },
+    "aliases": {
+      "en": [
+        "Ahrensia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aidingimonas",
+    "label": {
+      "en": "Aidingimonas"
+    },
+    "description": {
+      "en": "Aidingimonas"
+    },
+    "aliases": {
+      "en": [
+        "Aidingimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "akkermansia",
+    "label": {
+      "en": "Akkermansia"
+    },
+    "description": {
+      "en": "Akkermansia"
+    },
+    "aliases": {
+      "en": [
+        "Akkermansia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "albibacter",
+    "label": {
+      "en": "Albibacter"
+    },
+    "description": {
+      "en": "Albibacter"
+    },
+    "aliases": {
+      "en": [
+        "Albibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "albidovulum",
+    "label": {
+      "en": "Albidovulum"
+    },
+    "description": {
+      "en": "Albidovulum"
+    },
+    "aliases": {
+      "en": [
+        "Albidovulum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "albimonas",
+    "label": {
+      "en": "Albimonas"
+    },
+    "description": {
+      "en": "Albimonas"
+    },
+    "aliases": {
+      "en": [
+        "Albimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alcaligenes",
+    "label": {
+      "en": "Alcaligenes"
+    },
+    "description": {
+      "en": "Alcaligenes"
+    },
+    "aliases": {
+      "en": [
+        "Alcaligenes"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "algicola",
+    "label": {
+      "en": "Algicola"
+    },
+    "description": {
+      "en": "Algicola"
+    },
+    "aliases": {
+      "en": [
+        "Algicola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "algoriphagus",
+    "label": {
+      "en": "Algoriphagus"
+    },
+    "description": {
+      "en": "Algoriphagus"
+    },
+    "aliases": {
+      "en": [
+        "Algoriphagus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aliagarivorans",
+    "label": {
+      "en": "Aliagarivorans"
+    },
+    "description": {
+      "en": "Aliagarivorans"
+    },
+    "aliases": {
+      "en": [
+        "Aliagarivorans"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alicycliphilus",
+    "label": {
+      "en": "Alicycliphilus"
+    },
+    "description": {
+      "en": "Alicycliphilus"
+    },
+    "aliases": {
+      "en": [
+        "Alicycliphilus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alicyclobacillus",
+    "label": {
+      "en": "Alicyclobacillus"
+    },
+    "description": {
+      "en": "Alicyclobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Alicyclobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aliivibrio",
+    "label": {
+      "en": "Aliivibrio"
+    },
+    "description": {
+      "en": "Aliivibrio"
+    },
+    "aliases": {
+      "en": [
+        "Aliivibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alishewanella",
+    "label": {
+      "en": "Alishewanella"
+    },
+    "description": {
+      "en": "Alishewanella"
+    },
+    "aliases": {
+      "en": [
+        "Alishewanella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alistipes",
+    "label": {
+      "en": "Alistipes"
+    },
+    "description": {
+      "en": "Alistipes"
+    },
+    "aliases": {
+      "en": [
+        "Alistipes"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkalibacillus",
+    "label": {
+      "en": "Alkalibacillus"
+    },
+    "description": {
+      "en": "Alkalibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Alkalibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkalibacter",
+    "label": {
+      "en": "Alkalibacter"
+    },
+    "description": {
+      "en": "Alkalibacter"
+    },
+    "aliases": {
+      "en": [
+        "Alkalibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkalibaculum",
+    "label": {
+      "en": "Alkalibaculum"
+    },
+    "description": {
+      "en": "Alkalibaculum"
+    },
+    "aliases": {
+      "en": [
+        "Alkalibaculum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkaliflexus",
+    "label": {
+      "en": "Alkaliflexus"
+    },
+    "description": {
+      "en": "Alkaliflexus"
+    },
+    "aliases": {
+      "en": [
+        "Alkaliflexus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkalilimnicola",
+    "label": {
+      "en": "Alkalilimnicola"
+    },
+    "description": {
+      "en": "Alkalilimnicola"
+    },
+    "aliases": {
+      "en": [
+        "Alkalilimnicola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkalimonas",
+    "label": {
+      "en": "Alkalimonas"
+    },
+    "description": {
+      "en": "Alkalimonas"
+    },
+    "aliases": {
+      "en": [
+        "Alkalimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alkaliphilus",
+    "label": {
+      "en": "Alkaliphilus"
+    },
+    "description": {
+      "en": "Alkaliphilus"
+    },
+    "aliases": {
+      "en": [
+        "Alkaliphilus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "allochromatium",
+    "label": {
+      "en": "Allochromatium"
+    },
+    "description": {
+      "en": "Allochromatium"
+    },
+    "aliases": {
+      "en": [
+        "Allochromatium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alloiococcus",
+    "label": {
+      "en": "Alloiococcus"
+    },
+    "description": {
+      "en": "Alloiococcus"
+    },
+    "aliases": {
+      "en": [
+        "Alloiococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "allorhizobium",
+    "label": {
+      "en": "Allorhizobium"
+    },
+    "description": {
+      "en": "Allorhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Allorhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "alteromonas",
+    "label": {
+      "en": "Alteromonas"
+    },
+    "description": {
+      "en": "Alteromonas"
+    },
+    "aliases": {
+      "en": [
+        "Alteromonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "amaricoccus",
+    "label": {
+      "en": "Amaricoccus"
+    },
+    "description": {
+      "en": "Amaricoccus"
+    },
+    "aliases": {
+      "en": [
+        "Amaricoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "amphibacillus",
+    "label": {
+      "en": "Amphibacillus"
+    },
+    "description": {
+      "en": "Amphibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Amphibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "anaerobacter",
+    "label": {
+      "en": "Anaerobacter"
+    },
+    "description": {
+      "en": "Anaerobacter"
+    },
+    "aliases": {
+      "en": [
+        "Anaerobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "anaplasma",
+    "label": {
+      "en": "Anaplasma"
+    },
+    "description": {
+      "en": "Anaplasma"
+    },
+    "aliases": {
+      "en": [
+        "Anaplasma"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ancalomicrobium",
+    "label": {
+      "en": "Ancalomicrobium"
+    },
+    "description": {
+      "en": "Ancalomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Ancalomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ancylobacter",
+    "label": {
+      "en": "Ancylobacter"
+    },
+    "description": {
+      "en": "Ancylobacter"
+    },
+    "aliases": {
+      "en": [
+        "Ancylobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "anderseniella",
+    "label": {
+      "en": "Anderseniella"
+    },
+    "description": {
+      "en": "Anderseniella"
+    },
+    "aliases": {
+      "en": [
+        "Anderseniella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "angulomicrobium",
+    "label": {
+      "en": "Angulomicrobium"
+    },
+    "description": {
+      "en": "Angulomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Angulomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "anoxybacillus",
+    "label": {
+      "en": "Anoxybacillus"
+    },
+    "description": {
+      "en": "Anoxybacillus"
+    },
+    "aliases": {
+      "en": [
+        "Anoxybacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "antarctobacter",
+    "label": {
+      "en": "Antarctobacter"
+    },
+    "description": {
+      "en": "Antarctobacter"
+    },
+    "aliases": {
+      "en": [
+        "Antarctobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "anti-dnase-b",
+    "label": {
+      "en": "Anti-DNase B"
+    },
+    "description": {
+      "en": "Anti-DNase B"
+    },
+    "aliases": {
+      "en": [
+        "Anti-DNase B"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aquabacter",
+    "label": {
+      "en": "Aquabacter"
+    },
+    "description": {
+      "en": "Aquabacter"
+    },
+    "aliases": {
+      "en": [
+        "Aquabacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aquabacterium",
+    "label": {
+      "en": "Aquabacterium"
+    },
+    "description": {
+      "en": "Aquabacterium"
+    },
+    "aliases": {
+      "en": [
+        "Aquabacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aquaspirillum",
+    "label": {
+      "en": "Aquaspirillum"
+    },
+    "description": {
+      "en": "Aquaspirillum"
+    },
+    "aliases": {
+      "en": [
+        "Aquaspirillum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aquifex",
+    "label": {
+      "en": "Aquifex"
+    },
+    "description": {
+      "en": "Aquifex"
+    },
+    "aliases": {
+      "en": [
+        "Aquifex"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "arcanobacterium",
+    "label": {
+      "en": "Arcanobacterium"
+    },
+    "description": {
+      "en": "Arcanobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Arcanobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "arcobacter",
+    "label": {
+      "en": "Arcobacter"
+    },
+    "description": {
+      "en": "Arcobacter"
+    },
+    "aliases": {
+      "en": [
+        "Arcobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aromatoleum",
+    "label": {
+      "en": "Aromatoleum"
+    },
+    "description": {
+      "en": "Aromatoleum"
+    },
+    "aliases": {
+      "en": [
+        "Aromatoleum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "arsenophonus",
+    "label": {
+      "en": "Arsenophonus"
+    },
+    "description": {
+      "en": "Arsenophonus"
+    },
+    "aliases": {
+      "en": [
+        "Arsenophonus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "arthrobacter",
+    "label": {
+      "en": "Arthrobacter"
+    },
+    "description": {
+      "en": "Arthrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Arthrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "asaia",
+    "label": {
+      "en": "Asaia"
+    },
+    "description": {
+      "en": "Asaia"
+    },
+    "aliases": {
+      "en": [
+        "Asaia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "asticcacaulis",
+    "label": {
+      "en": "Asticcacaulis"
+    },
+    "description": {
+      "en": "Asticcacaulis"
+    },
+    "aliases": {
+      "en": [
+        "Asticcacaulis"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aurantimonas",
+    "label": {
+      "en": "Aurantimonas"
+    },
+    "description": {
+      "en": "Aurantimonas"
+    },
+    "aliases": {
+      "en": [
+        "Aurantimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "aureimonas",
+    "label": {
+      "en": "Aureimonas"
+    },
+    "description": {
+      "en": "Aureimonas"
+    },
+    "aliases": {
+      "en": [
+        "Aureimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azoarcus",
+    "label": {
+      "en": "Azoarcus"
+    },
+    "description": {
+      "en": "Azoarcus"
+    },
+    "aliases": {
+      "en": [
+        "Azoarcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azomonas",
+    "label": {
+      "en": "Azomonas"
+    },
+    "description": {
+      "en": "Azomonas"
+    },
+    "aliases": {
+      "en": [
+        "Azomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azonexus",
+    "label": {
+      "en": "Azonexus"
+    },
+    "description": {
+      "en": "Azonexus"
+    },
+    "aliases": {
+      "en": [
+        "Azonexus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azorhizobium",
+    "label": {
+      "en": "Azorhizobium"
+    },
+    "description": {
+      "en": "Azorhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Azorhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azospira",
+    "label": {
+      "en": "Azospira"
+    },
+    "description": {
+      "en": "Azospira"
+    },
+    "aliases": {
+      "en": [
+        "Azospira"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azotobacter",
+    "label": {
+      "en": "Azotobacter"
+    },
+    "description": {
+      "en": "Azotobacter"
+    },
+    "aliases": {
+      "en": [
+        "Azotobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "azovibrio",
+    "label": {
+      "en": "Azovibrio"
+    },
+    "description": {
+      "en": "Azovibrio"
+    },
+    "aliases": {
+      "en": [
+        "Azovibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bacillus",
+    "label": {
+      "en": "Bacillus"
+    },
+    "description": {
+      "en": "Bacillus"
+    },
+    "aliases": {
+      "en": [
+        "Bacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bartonella",
+    "label": {
+      "en": "Bartonella"
+    },
+    "description": {
+      "en": "Bartonella"
+    },
+    "aliases": {
+      "en": [
+        "Bartonella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bavariicoccus",
+    "label": {
+      "en": "Bavariicoccus"
+    },
+    "description": {
+      "en": "Bavariicoccus"
+    },
+    "aliases": {
+      "en": [
+        "Bavariicoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bdellovibrio",
+    "label": {
+      "en": "Bdellovibrio"
+    },
+    "description": {
+      "en": "Bdellovibrio"
+    },
+    "aliases": {
+      "en": [
+        "Bdellovibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "beijerinckia",
+    "label": {
+      "en": "Beijerinckia"
+    },
+    "description": {
+      "en": "Beijerinckia"
+    },
+    "aliases": {
+      "en": [
+        "Beijerinckia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "blastobacter",
+    "label": {
+      "en": "Blastobacter"
+    },
+    "description": {
+      "en": "Blastobacter"
+    },
+    "aliases": {
+      "en": [
+        "Blastobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "blastochloris",
+    "label": {
+      "en": "Blastochloris"
+    },
+    "description": {
+      "en": "Blastochloris"
+    },
+    "aliases": {
+      "en": [
+        "Blastochloris"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "blattabacterium",
+    "label": {
+      "en": "Blattabacterium"
+    },
+    "description": {
+      "en": "Blattabacterium"
+    },
+    "aliases": {
+      "en": [
+        "Blattabacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bordetella",
+    "label": {
+      "en": "Bordetella"
+    },
+    "description": {
+      "en": "Bordetella"
+    },
+    "aliases": {
+      "en": [
+        "Bordetella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bosea",
+    "label": {
+      "en": "Bosea"
+    },
+    "description": {
+      "en": "Bosea"
+    },
+    "aliases": {
+      "en": [
+        "Bosea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "brachymonas",
+    "label": {
+      "en": "Brachymonas"
+    },
+    "description": {
+      "en": "Brachymonas"
+    },
+    "aliases": {
+      "en": [
+        "Brachymonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "brackiella",
+    "label": {
+      "en": "Brackiella"
+    },
+    "description": {
+      "en": "Brackiella"
+    },
+    "aliases": {
+      "en": [
+        "Brackiella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bradyrhizobium",
+    "label": {
+      "en": "Bradyrhizobium"
+    },
+    "description": {
+      "en": "Bradyrhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Bradyrhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "brenneria",
+    "label": {
+      "en": "Brenneria"
+    },
+    "description": {
+      "en": "Brenneria"
+    },
+    "aliases": {
+      "en": [
+        "Brenneria"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "brevibacillus",
+    "label": {
+      "en": "Brevibacillus"
+    },
+    "description": {
+      "en": "Brevibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Brevibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "brevundimonas",
+    "label": {
+      "en": "Brevundimonas"
+    },
+    "description": {
+      "en": "Brevundimonas"
+    },
+    "aliases": {
+      "en": [
+        "Brevundimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "brucella",
+    "label": {
+      "en": "Brucella"
+    },
+    "description": {
+      "en": "Brucella"
+    },
+    "aliases": {
+      "en": [
+        "Brucella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "bryocella",
+    "label": {
+      "en": "Bryocella"
+    },
+    "description": {
+      "en": "Bryocella"
+    },
+    "aliases": {
+      "en": [
+        "Bryocella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "burkholderia",
+    "label": {
+      "en": "Burkholderia"
+    },
+    "description": {
+      "en": "Burkholderia"
+    },
+    "aliases": {
+      "en": [
+        "Burkholderia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "butyrivibrio",
+    "label": {
+      "en": "Butyrivibrio"
+    },
+    "description": {
+      "en": "Butyrivibrio"
+    },
+    "aliases": {
+      "en": [
+        "Butyrivibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "caminibacter",
+    "label": {
+      "en": "Caminibacter"
+    },
+    "description": {
+      "en": "Caminibacter"
+    },
+    "aliases": {
+      "en": [
+        "Caminibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "campylobacter",
+    "label": {
+      "en": "Campylobacter"
+    },
+    "description": {
+      "en": "Campylobacter"
+    },
+    "aliases": {
+      "en": [
+        "Campylobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "carbophilus",
+    "label": {
+      "en": "Carbophilus"
+    },
+    "description": {
+      "en": "Carbophilus"
+    },
+    "aliases": {
+      "en": [
+        "Carbophilus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "carnimonas",
+    "label": {
+      "en": "Carnimonas"
+    },
+    "description": {
+      "en": "Carnimonas"
+    },
+    "aliases": {
+      "en": [
+        "Carnimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "carnobacterium",
+    "label": {
+      "en": "Carnobacterium"
+    },
+    "description": {
+      "en": "Carnobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Carnobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "castellaniella",
+    "label": {
+      "en": "Castellaniella"
+    },
+    "description": {
+      "en": "Castellaniella"
+    },
+    "aliases": {
+      "en": [
+        "Castellaniella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "catellibacterium",
+    "label": {
+      "en": "Catellibacterium"
+    },
+    "description": {
+      "en": "Catellibacterium"
+    },
+    "aliases": {
+      "en": [
+        "Catellibacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cedecea",
+    "label": {
+      "en": "Cedecea"
+    },
+    "description": {
+      "en": "Cedecea"
+    },
+    "aliases": {
+      "en": [
+        "Cedecea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chelatococcus",
+    "label": {
+      "en": "Chelatococcus"
+    },
+    "description": {
+      "en": "Chelatococcus"
+    },
+    "aliases": {
+      "en": [
+        "Chelatococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chitinimonas",
+    "label": {
+      "en": "Chitinimonas"
+    },
+    "description": {
+      "en": "Chitinimonas"
+    },
+    "aliases": {
+      "en": [
+        "Chitinimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chloracidobacterium",
+    "label": {
+      "en": "Chloracidobacterium"
+    },
+    "description": {
+      "en": "Chloracidobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Chloracidobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chromatium",
+    "label": {
+      "en": "Chromatium"
+    },
+    "description": {
+      "en": "Chromatium"
+    },
+    "aliases": {
+      "en": [
+        "Chromatium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chromobacterium",
+    "label": {
+      "en": "Chromobacterium"
+    },
+    "description": {
+      "en": "Chromobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Chromobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chromohalobacter",
+    "label": {
+      "en": "Chromohalobacter"
+    },
+    "description": {
+      "en": "Chromohalobacter"
+    },
+    "aliases": {
+      "en": [
+        "Chromohalobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "chryseobacterium",
+    "label": {
+      "en": "Chryseobacterium"
+    },
+    "description": {
+      "en": "Chryseobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Chryseobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "citreicella",
+    "label": {
+      "en": "Citreicella"
+    },
+    "description": {
+      "en": "Citreicella"
+    },
+    "aliases": {
+      "en": [
+        "Citreicella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "citrobacter",
+    "label": {
+      "en": "Citrobacter"
+    },
+    "description": {
+      "en": "Citrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Citrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "clostridium",
+    "label": {
+      "en": "Clostridium"
+    },
+    "description": {
+      "en": "Clostridium"
+    },
+    "aliases": {
+      "en": [
+        "Clostridium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cobetia",
+    "label": {
+      "en": "Cobetia"
+    },
+    "description": {
+      "en": "Cobetia"
+    },
+    "aliases": {
+      "en": [
+        "Cobetia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "coenonia",
+    "label": {
+      "en": "Coenonia"
+    },
+    "description": {
+      "en": "Coenonia"
+    },
+    "aliases": {
+      "en": [
+        "Coenonia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cohaesibacter",
+    "label": {
+      "en": "Cohaesibacter"
+    },
+    "description": {
+      "en": "Cohaesibacter"
+    },
+    "aliases": {
+      "en": [
+        "Cohaesibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "collimonas",
+    "label": {
+      "en": "Collimonas"
+    },
+    "description": {
+      "en": "Collimonas"
+    },
+    "aliases": {
+      "en": [
+        "Collimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "collinsella",
+    "label": {
+      "en": "Collinsella"
+    },
+    "description": {
+      "en": "Collinsella"
+    },
+    "aliases": {
+      "en": [
+        "Collinsella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "colwellia",
+    "label": {
+      "en": "Colwellia"
+    },
+    "description": {
+      "en": "Colwellia"
+    },
+    "aliases": {
+      "en": [
+        "Colwellia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "corynebacterium",
+    "label": {
+      "en": "Corynebacterium"
+    },
+    "description": {
+      "en": "Corynebacterium"
+    },
+    "aliases": {
+      "en": [
+        "Corynebacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "crabtreella",
+    "label": {
+      "en": "Crabtreella"
+    },
+    "description": {
+      "en": "Crabtreella"
+    },
+    "aliases": {
+      "en": [
+        "Crabtreella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "croceibacter",
+    "label": {
+      "en": "Croceibacter"
+    },
+    "description": {
+      "en": "Croceibacter"
+    },
+    "aliases": {
+      "en": [
+        "Croceibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "croceicoccus",
+    "label": {
+      "en": "Croceicoccus"
+    },
+    "description": {
+      "en": "Croceicoccus"
+    },
+    "aliases": {
+      "en": [
+        "Croceicoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "croceitalea",
+    "label": {
+      "en": "Croceitalea"
+    },
+    "description": {
+      "en": "Croceitalea"
+    },
+    "aliases": {
+      "en": [
+        "Croceitalea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "crocinitomix",
+    "label": {
+      "en": "Crocinitomix"
+    },
+    "description": {
+      "en": "Crocinitomix"
+    },
+    "aliases": {
+      "en": [
+        "Crocinitomix"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cronobacter",
+    "label": {
+      "en": "Cronobacter"
+    },
+    "description": {
+      "en": "Cronobacter"
+    },
+    "aliases": {
+      "en": [
+        "Cronobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "crossiella",
+    "label": {
+      "en": "Crossiella"
+    },
+    "description": {
+      "en": "Crossiella"
+    },
+    "aliases": {
+      "en": [
+        "Crossiella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cryomorpha",
+    "label": {
+      "en": "Cryomorpha"
+    },
+    "description": {
+      "en": "Cryomorpha"
+    },
+    "aliases": {
+      "en": [
+        "Cryomorpha"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cryptosporangium",
+    "label": {
+      "en": "Cryptosporangium"
+    },
+    "description": {
+      "en": "Cryptosporangium"
+    },
+    "aliases": {
+      "en": [
+        "Cryptosporangium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cucumibacter",
+    "label": {
+      "en": "Cucumibacter"
+    },
+    "description": {
+      "en": "Cucumibacter"
+    },
+    "aliases": {
+      "en": [
+        "Cucumibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cupriavidus",
+    "label": {
+      "en": "Cupriavidus"
+    },
+    "description": {
+      "en": "Cupriavidus"
+    },
+    "aliases": {
+      "en": [
+        "Cupriavidus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "curtobacterium",
+    "label": {
+      "en": "Curtobacterium"
+    },
+    "description": {
+      "en": "Curtobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Curtobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "curvibacter",
+    "label": {
+      "en": "Curvibacter"
+    },
+    "description": {
+      "en": "Curvibacter"
+    },
+    "aliases": {
+      "en": [
+        "Curvibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cycloclasticus",
+    "label": {
+      "en": "Cycloclasticus"
+    },
+    "description": {
+      "en": "Cycloclasticus"
+    },
+    "aliases": {
+      "en": [
+        "Cycloclasticus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cystobacter",
+    "label": {
+      "en": "Cystobacter"
+    },
+    "description": {
+      "en": "Cystobacter"
+    },
+    "aliases": {
+      "en": [
+        "Cystobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "cytophaga",
+    "label": {
+      "en": "Cytophaga"
+    },
+    "description": {
+      "en": "Cytophaga"
+    },
+    "aliases": {
+      "en": [
+        "Cytophaga"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dactylosporangium",
+    "label": {
+      "en": "Dactylosporangium"
+    },
+    "description": {
+      "en": "Dactylosporangium"
+    },
+    "aliases": {
+      "en": [
+        "Dactylosporangium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "daeguia",
+    "label": {
+      "en": "Daeguia"
+    },
+    "description": {
+      "en": "Daeguia"
+    },
+    "aliases": {
+      "en": [
+        "Daeguia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dasania",
+    "label": {
+      "en": "Dasania"
+    },
+    "description": {
+      "en": "Dasania"
+    },
+    "aliases": {
+      "en": [
+        "Dasania"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dechloromonas",
+    "label": {
+      "en": "Dechloromonas"
+    },
+    "description": {
+      "en": "Dechloromonas"
+    },
+    "aliases": {
+      "en": [
+        "Dechloromonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "deefgea",
+    "label": {
+      "en": "Deefgea"
+    },
+    "description": {
+      "en": "Deefgea"
+    },
+    "aliases": {
+      "en": [
+        "Deefgea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "deferribacter",
+    "label": {
+      "en": "Deferribacter"
+    },
+    "description": {
+      "en": "Deferribacter"
+    },
+    "aliases": {
+      "en": [
+        "Deferribacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "defluvibacter",
+    "label": {
+      "en": "Defluvibacter"
+    },
+    "description": {
+      "en": "Defluvibacter"
+    },
+    "aliases": {
+      "en": [
+        "Defluvibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "defluviicoccus",
+    "label": {
+      "en": "Defluviicoccus"
+    },
+    "description": {
+      "en": "Defluviicoccus"
+    },
+    "aliases": {
+      "en": [
+        "Defluviicoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dehalococcoides",
+    "label": {
+      "en": "Dehalococcoides"
+    },
+    "description": {
+      "en": "Dehalococcoides"
+    },
+    "aliases": {
+      "en": [
+        "Dehalococcoides"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dehalogenimonas",
+    "label": {
+      "en": "Dehalogenimonas"
+    },
+    "description": {
+      "en": "Dehalogenimonas"
+    },
+    "aliases": {
+      "en": [
+        "Dehalogenimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "deinococcus",
+    "label": {
+      "en": "Deinococcus"
+    },
+    "description": {
+      "en": "Deinococcus"
+    },
+    "aliases": {
+      "en": [
+        "Deinococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "delftia",
+    "label": {
+      "en": "Delftia"
+    },
+    "description": {
+      "en": "Delftia"
+    },
+    "aliases": {
+      "en": [
+        "Delftia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "demequina",
+    "label": {
+      "en": "Demequina"
+    },
+    "description": {
+      "en": "Demequina"
+    },
+    "aliases": {
+      "en": [
+        "Demequina"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dendrosporobacter",
+    "label": {
+      "en": "Dendrosporobacter"
+    },
+    "description": {
+      "en": "Dendrosporobacter"
+    },
+    "aliases": {
+      "en": [
+        "Dendrosporobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "denitratisoma",
+    "label": {
+      "en": "Denitratisoma"
+    },
+    "description": {
+      "en": "Denitratisoma"
+    },
+    "aliases": {
+      "en": [
+        "Denitratisoma"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "denitrobacterium",
+    "label": {
+      "en": "Denitrobacterium"
+    },
+    "description": {
+      "en": "Denitrobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Denitrobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "derxia",
+    "label": {
+      "en": "Derxia"
+    },
+    "description": {
+      "en": "Derxia"
+    },
+    "aliases": {
+      "en": [
+        "Derxia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfacinum",
+    "label": {
+      "en": "Desulfacinum"
+    },
+    "description": {
+      "en": "Desulfacinum"
+    },
+    "aliases": {
+      "en": [
+        "Desulfacinum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfitobacterium",
+    "label": {
+      "en": "Desulfitobacterium"
+    },
+    "description": {
+      "en": "Desulfitobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Desulfitobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfobacter",
+    "label": {
+      "en": "Desulfobacter"
+    },
+    "description": {
+      "en": "Desulfobacter"
+    },
+    "aliases": {
+      "en": [
+        "Desulfobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfobacterium",
+    "label": {
+      "en": "Desulfobacterium"
+    },
+    "description": {
+      "en": "Desulfobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Desulfobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfocapsa",
+    "label": {
+      "en": "Desulfocapsa"
+    },
+    "description": {
+      "en": "Desulfocapsa"
+    },
+    "aliases": {
+      "en": [
+        "Desulfocapsa"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfonatronum",
+    "label": {
+      "en": "Desulfonatronum"
+    },
+    "description": {
+      "en": "Desulfonatronum"
+    },
+    "aliases": {
+      "en": [
+        "Desulfonatronum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfosporomusa",
+    "label": {
+      "en": "Desulfosporomusa"
+    },
+    "description": {
+      "en": "Desulfosporomusa"
+    },
+    "aliases": {
+      "en": [
+        "Desulfosporomusa"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfosporosinus",
+    "label": {
+      "en": "Desulfosporosinus"
+    },
+    "description": {
+      "en": "Desulfosporosinus"
+    },
+    "aliases": {
+      "en": [
+        "Desulfosporosinus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfovibrio",
+    "label": {
+      "en": "Desulfovibrio"
+    },
+    "description": {
+      "en": "Desulfovibrio"
+    },
+    "aliases": {
+      "en": [
+        "Desulfovibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "desulfurella",
+    "label": {
+      "en": "Desulfurella"
+    },
+    "description": {
+      "en": "Desulfurella"
+    },
+    "aliases": {
+      "en": [
+        "Desulfurella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "devosia",
+    "label": {
+      "en": "Devosia"
+    },
+    "description": {
+      "en": "Devosia"
+    },
+    "aliases": {
+      "en": [
+        "Devosia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dichotomicrobium",
+    "label": {
+      "en": "Dichotomicrobium"
+    },
+    "description": {
+      "en": "Dichotomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Dichotomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dickeya",
+    "label": {
+      "en": "Dickeya"
+    },
+    "description": {
+      "en": "Dickeya"
+    },
+    "aliases": {
+      "en": [
+        "Dickeya"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "dinoroseobacter",
+    "label": {
+      "en": "Dinoroseobacter"
+    },
+    "description": {
+      "en": "Dinoroseobacter"
+    },
+    "aliases": {
+      "en": [
+        "Dinoroseobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "duganella",
+    "label": {
+      "en": "Duganella"
+    },
+    "description": {
+      "en": "Duganella"
+    },
+    "aliases": {
+      "en": [
+        "Duganella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "edwardsiella",
+    "label": {
+      "en": "Edwardsiella"
+    },
+    "description": {
+      "en": "Edwardsiella"
+    },
+    "aliases": {
+      "en": [
+        "Edwardsiella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "eggerthella",
+    "label": {
+      "en": "Eggerthella"
+    },
+    "description": {
+      "en": "Eggerthella"
+    },
+    "aliases": {
+      "en": [
+        "Eggerthella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ehrlichia",
+    "label": {
+      "en": "Ehrlichia"
+    },
+    "description": {
+      "en": "Ehrlichia"
+    },
+    "aliases": {
+      "en": [
+        "Ehrlichia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "enhydrobacter",
+    "label": {
+      "en": "Enhydrobacter"
+    },
+    "description": {
+      "en": "Enhydrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Enhydrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "enterobacter",
+    "label": {
+      "en": "Enterobacter"
+    },
+    "description": {
+      "en": "Enterobacter"
+    },
+    "aliases": {
+      "en": [
+        "Enterobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "enterococcus",
+    "label": {
+      "en": "Enterococcus"
+    },
+    "description": {
+      "en": "Enterococcus"
+    },
+    "aliases": {
+      "en": [
+        "Enterococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "entomoplasma",
+    "label": {
+      "en": "Entomoplasma"
+    },
+    "description": {
+      "en": "Entomoplasma"
+    },
+    "aliases": {
+      "en": [
+        "Entomoplasma"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "erwinia",
+    "label": {
+      "en": "Erwinia"
+    },
+    "description": {
+      "en": "Erwinia"
+    },
+    "aliases": {
+      "en": [
+        "Erwinia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "erythrobacter",
+    "label": {
+      "en": "Erythrobacter"
+    },
+    "description": {
+      "en": "Erythrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Erythrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "escherichia",
+    "label": {
+      "en": "Escherichia"
+    },
+    "description": {
+      "en": "Escherichia"
+    },
+    "aliases": {
+      "en": [
+        "Escherichia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "exiguobacterium",
+    "label": {
+      "en": "Exiguobacterium"
+    },
+    "description": {
+      "en": "Exiguobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Exiguobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ferribacterium",
+    "label": {
+      "en": "Ferribacterium"
+    },
+    "description": {
+      "en": "Ferribacterium"
+    },
+    "aliases": {
+      "en": [
+        "Ferribacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "filobacillus",
+    "label": {
+      "en": "Filobacillus"
+    },
+    "description": {
+      "en": "Filobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Filobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "filomicrobium",
+    "label": {
+      "en": "Filomicrobium"
+    },
+    "description": {
+      "en": "Filomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Filomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "finegoldia",
+    "label": {
+      "en": "Finegoldia"
+    },
+    "description": {
+      "en": "Finegoldia"
+    },
+    "aliases": {
+      "en": [
+        "Finegoldia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "flexibacter",
+    "label": {
+      "en": "Flexibacter"
+    },
+    "description": {
+      "en": "Flexibacter"
+    },
+    "aliases": {
+      "en": [
+        "Flexibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "fulvimarina",
+    "label": {
+      "en": "Fulvimarina"
+    },
+    "description": {
+      "en": "Fulvimarina"
+    },
+    "aliases": {
+      "en": [
+        "Fulvimarina"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "gelidibacter",
+    "label": {
+      "en": "Gelidibacter"
+    },
+    "description": {
+      "en": "Gelidibacter"
+    },
+    "aliases": {
+      "en": [
+        "Gelidibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "gemella",
+    "label": {
+      "en": "Gemella"
+    },
+    "description": {
+      "en": "Gemella"
+    },
+    "aliases": {
+      "en": [
+        "Gemella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "gemmiger",
+    "label": {
+      "en": "Gemmiger"
+    },
+    "description": {
+      "en": "Gemmiger"
+    },
+    "aliases": {
+      "en": [
+        "Gemmiger"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "geobacillus",
+    "label": {
+      "en": "Geobacillus"
+    },
+    "description": {
+      "en": "Geobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Geobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "geobacter",
+    "label": {
+      "en": "Geobacter"
+    },
+    "description": {
+      "en": "Geobacter"
+    },
+    "aliases": {
+      "en": [
+        "Geobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "glaciecola",
+    "label": {
+      "en": "Glaciecola"
+    },
+    "description": {
+      "en": "Glaciecola"
+    },
+    "aliases": {
+      "en": [
+        "Glaciecola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "glaciimonas",
+    "label": {
+      "en": "Glaciimonas"
+    },
+    "description": {
+      "en": "Glaciimonas"
+    },
+    "aliases": {
+      "en": [
+        "Glaciimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "gluconacetobacter",
+    "label": {
+      "en": "Gluconacetobacter"
+    },
+    "description": {
+      "en": "Gluconacetobacter"
+    },
+    "aliases": {
+      "en": [
+        "Gluconacetobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "gluconobacter",
+    "label": {
+      "en": "Gluconobacter"
+    },
+    "description": {
+      "en": "Gluconobacter"
+    },
+    "aliases": {
+      "en": [
+        "Gluconobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "gracilibacillus",
+    "label": {
+      "en": "Gracilibacillus"
+    },
+    "description": {
+      "en": "Gracilibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Gracilibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "haematobacter",
+    "label": {
+      "en": "Haematobacter"
+    },
+    "description": {
+      "en": "Haematobacter"
+    },
+    "aliases": {
+      "en": [
+        "Haematobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "hafnia",
+    "label": {
+      "en": "Hafnia"
+    },
+    "description": {
+      "en": "Hafnia"
+    },
+    "aliases": {
+      "en": [
+        "Hafnia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "halobacillus",
+    "label": {
+      "en": "Halobacillus"
+    },
+    "description": {
+      "en": "Halobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Halobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "halomonas",
+    "label": {
+      "en": "Halomonas"
+    },
+    "description": {
+      "en": "Halomonas"
+    },
+    "aliases": {
+      "en": [
+        "Halomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "hansschlegelia",
+    "label": {
+      "en": "Hansschlegelia"
+    },
+    "description": {
+      "en": "Hansschlegelia"
+    },
+    "aliases": {
+      "en": [
+        "Hansschlegelia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "helicobacter",
+    "label": {
+      "en": "Helicobacter"
+    },
+    "description": {
+      "en": "Helicobacter"
+    },
+    "aliases": {
+      "en": [
+        "Helicobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "herbaspirillum",
+    "label": {
+      "en": "Herbaspirillum"
+    },
+    "description": {
+      "en": "Herbaspirillum"
+    },
+    "aliases": {
+      "en": [
+        "Herbaspirillum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "herminiimonas",
+    "label": {
+      "en": "Herminiimonas"
+    },
+    "description": {
+      "en": "Herminiimonas"
+    },
+    "aliases": {
+      "en": [
+        "Herminiimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "hirschia",
+    "label": {
+      "en": "Hirschia"
+    },
+    "description": {
+      "en": "Hirschia"
+    },
+    "aliases": {
+      "en": [
+        "Hirschia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "holophagales",
+    "label": {
+      "en": "Holophagales"
+    },
+    "description": {
+      "en": "Holophagales"
+    },
+    "aliases": {
+      "en": [
+        "Holophagales"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "hydrogenophaga",
+    "label": {
+      "en": "Hydrogenophaga"
+    },
+    "description": {
+      "en": "Hydrogenophaga"
+    },
+    "aliases": {
+      "en": [
+        "Hydrogenophaga"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "hyphomicrobium",
+    "label": {
+      "en": "Hyphomicrobium"
+    },
+    "description": {
+      "en": "Hyphomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Hyphomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "hyphomonas",
+    "label": {
+      "en": "Hyphomonas"
+    },
+    "description": {
+      "en": "Hyphomonas"
+    },
+    "aliases": {
+      "en": [
+        "Hyphomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ideonella",
+    "label": {
+      "en": "Ideonella"
+    },
+    "description": {
+      "en": "Ideonella"
+    },
+    "aliases": {
+      "en": [
+        "Ideonella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "inquilinus",
+    "label": {
+      "en": "Inquilinus"
+    },
+    "description": {
+      "en": "Inquilinus"
+    },
+    "aliases": {
+      "en": [
+        "Inquilinus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "jannaschia",
+    "label": {
+      "en": "Jannaschia"
+    },
+    "description": {
+      "en": "Jannaschia"
+    },
+    "aliases": {
+      "en": [
+        "Jannaschia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "janthinobacterium",
+    "label": {
+      "en": "Janthinobacterium"
+    },
+    "description": {
+      "en": "Janthinobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Janthinobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "jeotgalibacillus",
+    "label": {
+      "en": "Jeotgalibacillus"
+    },
+    "description": {
+      "en": "Jeotgalibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Jeotgalibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "jeotgalicoccus",
+    "label": {
+      "en": "Jeotgalicoccus"
+    },
+    "description": {
+      "en": "Jeotgalicoccus"
+    },
+    "aliases": {
+      "en": [
+        "Jeotgalicoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "kerstersia",
+    "label": {
+      "en": "Kerstersia"
+    },
+    "description": {
+      "en": "Kerstersia"
+    },
+    "aliases": {
+      "en": [
+        "Kerstersia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ketogulonicigenium",
+    "label": {
+      "en": "Ketogulonicigenium"
+    },
+    "description": {
+      "en": "Ketogulonicigenium"
+    },
+    "aliases": {
+      "en": [
+        "Ketogulonicigenium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "kineococcus",
+    "label": {
+      "en": "Kineococcus"
+    },
+    "description": {
+      "en": "Kineococcus"
+    },
+    "aliases": {
+      "en": [
+        "Kineococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "klebsiella",
+    "label": {
+      "en": "Klebsiella"
+    },
+    "description": {
+      "en": "Klebsiella"
+    },
+    "aliases": {
+      "en": [
+        "Klebsiella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "kocuria",
+    "label": {
+      "en": "Kocuria"
+    },
+    "description": {
+      "en": "Kocuria"
+    },
+    "aliases": {
+      "en": [
+        "Kocuria"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "kozakia",
+    "label": {
+      "en": "Kozakia"
+    },
+    "description": {
+      "en": "Kozakia"
+    },
+    "aliases": {
+      "en": [
+        "Kozakia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "kribbella",
+    "label": {
+      "en": "Kribbella"
+    },
+    "description": {
+      "en": "Kribbella"
+    },
+    "aliases": {
+      "en": [
+        "Kribbella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "labrys",
+    "label": {
+      "en": "Labrys"
+    },
+    "description": {
+      "en": "Labrys"
+    },
+    "aliases": {
+      "en": [
+        "Labrys"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "lactococcus",
+    "label": {
+      "en": "Lactococcus"
+    },
+    "description": {
+      "en": "Lactococcus"
+    },
+    "aliases": {
+      "en": [
+        "Lactococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "laribacter",
+    "label": {
+      "en": "Laribacter"
+    },
+    "description": {
+      "en": "Laribacter"
+    },
+    "aliases": {
+      "en": [
+        "Laribacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "lautropia",
+    "label": {
+      "en": "Lautropia"
+    },
+    "description": {
+      "en": "Lautropia"
+    },
+    "aliases": {
+      "en": [
+        "Lautropia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "leisingera",
+    "label": {
+      "en": "Leisingera"
+    },
+    "description": {
+      "en": "Leisingera"
+    },
+    "aliases": {
+      "en": [
+        "Leisingera"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "leptothrix",
+    "label": {
+      "en": "Leptothrix"
+    },
+    "description": {
+      "en": "Leptothrix"
+    },
+    "aliases": {
+      "en": [
+        "Leptothrix"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "leucobacter",
+    "label": {
+      "en": "Leucobacter"
+    },
+    "description": {
+      "en": "Leucobacter"
+    },
+    "aliases": {
+      "en": [
+        "Leucobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "leuconostoc",
+    "label": {
+      "en": "Leuconostoc"
+    },
+    "description": {
+      "en": "Leuconostoc"
+    },
+    "aliases": {
+      "en": [
+        "Leuconostoc"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "limnobacter",
+    "label": {
+      "en": "Limnobacter"
+    },
+    "description": {
+      "en": "Limnobacter"
+    },
+    "aliases": {
+      "en": [
+        "Limnobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "limnohabitans",
+    "label": {
+      "en": "Limnohabitans"
+    },
+    "description": {
+      "en": "Limnohabitans"
+    },
+    "aliases": {
+      "en": [
+        "Limnohabitans"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "listeria",
+    "label": {
+      "en": "Listeria"
+    },
+    "description": {
+      "en": "Listeria"
+    },
+    "aliases": {
+      "en": [
+        "Listeria"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "listonella",
+    "label": {
+      "en": "Listonella"
+    },
+    "description": {
+      "en": "Listonella"
+    },
+    "aliases": {
+      "en": [
+        "Listonella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "loktanella",
+    "label": {
+      "en": "Loktanella"
+    },
+    "description": {
+      "en": "Loktanella"
+    },
+    "aliases": {
+      "en": [
+        "Loktanella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "luteimonas",
+    "label": {
+      "en": "Luteimonas"
+    },
+    "description": {
+      "en": "Luteimonas"
+    },
+    "aliases": {
+      "en": [
+        "Luteimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "lutibacterium",
+    "label": {
+      "en": "Lutibacterium"
+    },
+    "description": {
+      "en": "Lutibacterium"
+    },
+    "aliases": {
+      "en": [
+        "Lutibacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "lyticum",
+    "label": {
+      "en": "Lyticum"
+    },
+    "description": {
+      "en": "Lyticum"
+    },
+    "aliases": {
+      "en": [
+        "Lyticum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "macrococcus",
+    "label": {
+      "en": "Macrococcus"
+    },
+    "description": {
+      "en": "Macrococcus"
+    },
+    "aliases": {
+      "en": [
+        "Macrococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "malikia",
+    "label": {
+      "en": "Malikia"
+    },
+    "description": {
+      "en": "Malikia"
+    },
+    "aliases": {
+      "en": [
+        "Malikia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "mannheimia",
+    "label": {
+      "en": "Mannheimia"
+    },
+    "description": {
+      "en": "Mannheimia"
+    },
+    "aliases": {
+      "en": [
+        "Mannheimia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "maribius",
+    "label": {
+      "en": "Maribius"
+    },
+    "description": {
+      "en": "Maribius"
+    },
+    "aliases": {
+      "en": [
+        "Maribius"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "maricaulis",
+    "label": {
+      "en": "Maricaulis"
+    },
+    "description": {
+      "en": "Maricaulis"
+    },
+    "aliases": {
+      "en": [
+        "Maricaulis"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "marinosulfonomonas",
+    "label": {
+      "en": "Marinosulfonomonas"
+    },
+    "description": {
+      "en": "Marinosulfonomonas"
+    },
+    "aliases": {
+      "en": [
+        "Marinosulfonomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "marinovum",
+    "label": {
+      "en": "Marinovum"
+    },
+    "description": {
+      "en": "Marinovum"
+    },
+    "aliases": {
+      "en": [
+        "Marinovum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "maritalea",
+    "label": {
+      "en": "Maritalea"
+    },
+    "description": {
+      "en": "Maritalea"
+    },
+    "aliases": {
+      "en": [
+        "Maritalea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "maritimibacter",
+    "label": {
+      "en": "Maritimibacter"
+    },
+    "description": {
+      "en": "Maritimibacter"
+    },
+    "aliases": {
+      "en": [
+        "Maritimibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "martelella",
+    "label": {
+      "en": "Martelella"
+    },
+    "description": {
+      "en": "Martelella"
+    },
+    "aliases": {
+      "en": [
+        "Martelella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "massilia",
+    "label": {
+      "en": "Massilia"
+    },
+    "description": {
+      "en": "Massilia"
+    },
+    "aliases": {
+      "en": [
+        "Massilia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "meganema",
+    "label": {
+      "en": "Meganema"
+    },
+    "description": {
+      "en": "Meganema"
+    },
+    "aliases": {
+      "en": [
+        "Meganema"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "megasphaera",
+    "label": {
+      "en": "Megasphaera"
+    },
+    "description": {
+      "en": "Megasphaera"
+    },
+    "aliases": {
+      "en": [
+        "Megasphaera"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "meiothermus",
+    "label": {
+      "en": "Meiothermus"
+    },
+    "description": {
+      "en": "Meiothermus"
+    },
+    "aliases": {
+      "en": [
+        "Meiothermus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "mesoplasma",
+    "label": {
+      "en": "Mesoplasma"
+    },
+    "description": {
+      "en": "Mesoplasma"
+    },
+    "aliases": {
+      "en": [
+        "Mesoplasma"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylarcula",
+    "label": {
+      "en": "Methylarcula"
+    },
+    "description": {
+      "en": "Methylarcula"
+    },
+    "aliases": {
+      "en": [
+        "Methylarcula"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylobacillus",
+    "label": {
+      "en": "Methylobacillus"
+    },
+    "description": {
+      "en": "Methylobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Methylobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylobacterium",
+    "label": {
+      "en": "Methylobacterium"
+    },
+    "description": {
+      "en": "Methylobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Methylobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylocapsa",
+    "label": {
+      "en": "Methylocapsa"
+    },
+    "description": {
+      "en": "Methylocapsa"
+    },
+    "aliases": {
+      "en": [
+        "Methylocapsa"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylocella",
+    "label": {
+      "en": "Methylocella"
+    },
+    "description": {
+      "en": "Methylocella"
+    },
+    "aliases": {
+      "en": [
+        "Methylocella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylocystis",
+    "label": {
+      "en": "Methylocystis"
+    },
+    "description": {
+      "en": "Methylocystis"
+    },
+    "aliases": {
+      "en": [
+        "Methylocystis"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylohalobius",
+    "label": {
+      "en": "Methylohalobius"
+    },
+    "description": {
+      "en": "Methylohalobius"
+    },
+    "aliases": {
+      "en": [
+        "Methylohalobius"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylopila",
+    "label": {
+      "en": "Methylopila"
+    },
+    "description": {
+      "en": "Methylopila"
+    },
+    "aliases": {
+      "en": [
+        "Methylopila"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylorhabdus",
+    "label": {
+      "en": "Methylorhabdus"
+    },
+    "description": {
+      "en": "Methylorhabdus"
+    },
+    "aliases": {
+      "en": [
+        "Methylorhabdus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylosinus",
+    "label": {
+      "en": "Methylosinus"
+    },
+    "description": {
+      "en": "Methylosinus"
+    },
+    "aliases": {
+      "en": [
+        "Methylosinus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "methylovirgula",
+    "label": {
+      "en": "Methylovirgula"
+    },
+    "description": {
+      "en": "Methylovirgula"
+    },
+    "aliases": {
+      "en": [
+        "Methylovirgula"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "microbacterium",
+    "label": {
+      "en": "Microbacterium"
+    },
+    "description": {
+      "en": "Microbacterium"
+    },
+    "aliases": {
+      "en": [
+        "Microbacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "micrococcus",
+    "label": {
+      "en": "Micrococcus"
+    },
+    "description": {
+      "en": "Micrococcus"
+    },
+    "aliases": {
+      "en": [
+        "Micrococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "micropolyspora",
+    "label": {
+      "en": "Micropolyspora"
+    },
+    "description": {
+      "en": "Micropolyspora"
+    },
+    "aliases": {
+      "en": [
+        "Micropolyspora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "microvirga",
+    "label": {
+      "en": "Microvirga"
+    },
+    "description": {
+      "en": "Microvirga"
+    },
+    "aliases": {
+      "en": [
+        "Microvirga"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "microvirgula",
+    "label": {
+      "en": "Microvirgula"
+    },
+    "description": {
+      "en": "Microvirgula"
+    },
+    "aliases": {
+      "en": [
+        "Microvirgula"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "moraxella",
+    "label": {
+      "en": "Moraxella"
+    },
+    "description": {
+      "en": "Moraxella"
+    },
+    "aliases": {
+      "en": [
+        "Moraxella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "mycoplana",
+    "label": {
+      "en": "Mycoplana"
+    },
+    "description": {
+      "en": "Mycoplana"
+    },
+    "aliases": {
+      "en": [
+        "Mycoplana"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "mycoplasma",
+    "label": {
+      "en": "Mycoplasma"
+    },
+    "description": {
+      "en": "Mycoplasma"
+    },
+    "aliases": {
+      "en": [
+        "Mycoplasma"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "naxibacter",
+    "label": {
+      "en": "Naxibacter"
+    },
+    "description": {
+      "en": "Naxibacter"
+    },
+    "aliases": {
+      "en": [
+        "Naxibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "neorhizobium",
+    "label": {
+      "en": "Neorhizobium"
+    },
+    "description": {
+      "en": "Neorhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Neorhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "neorickettsia",
+    "label": {
+      "en": "Neorickettsia"
+    },
+    "description": {
+      "en": "Neorickettsia"
+    },
+    "aliases": {
+      "en": [
+        "Neorickettsia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "nereida",
+    "label": {
+      "en": "Nereida"
+    },
+    "description": {
+      "en": "Nereida"
+    },
+    "aliases": {
+      "en": [
+        "Nereida"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "nisaea",
+    "label": {
+      "en": "Nisaea"
+    },
+    "description": {
+      "en": "Nisaea"
+    },
+    "aliases": {
+      "en": [
+        "Nisaea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "nitrobacter",
+    "label": {
+      "en": "Nitrobacter"
+    },
+    "description": {
+      "en": "Nitrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Nitrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "nitrosomonas",
+    "label": {
+      "en": "Nitrosomonas"
+    },
+    "description": {
+      "en": "Nitrosomonas"
+    },
+    "aliases": {
+      "en": [
+        "Nitrosomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "nitrospira",
+    "label": {
+      "en": "Nitrospira"
+    },
+    "description": {
+      "en": "Nitrospira"
+    },
+    "aliases": {
+      "en": [
+        "Nitrospira"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "novosphingobium",
+    "label": {
+      "en": "Novosphingobium"
+    },
+    "description": {
+      "en": "Novosphingobium"
+    },
+    "aliases": {
+      "en": [
+        "Novosphingobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oceanibulbus",
+    "label": {
+      "en": "Oceanibulbus"
+    },
+    "description": {
+      "en": "Oceanibulbus"
+    },
+    "aliases": {
+      "en": [
+        "Oceanibulbus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oceanicaulis",
+    "label": {
+      "en": "Oceanicaulis"
+    },
+    "description": {
+      "en": "Oceanicaulis"
+    },
+    "aliases": {
+      "en": [
+        "Oceanicaulis"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oceanicola",
+    "label": {
+      "en": "Oceanicola"
+    },
+    "description": {
+      "en": "Oceanicola"
+    },
+    "aliases": {
+      "en": [
+        "Oceanicola"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oceanobacillus",
+    "label": {
+      "en": "Oceanobacillus"
+    },
+    "description": {
+      "en": "Oceanobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Oceanobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ochrobactrum",
+    "label": {
+      "en": "Ochrobactrum"
+    },
+    "description": {
+      "en": "Ochrobactrum"
+    },
+    "aliases": {
+      "en": [
+        "Ochrobactrum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "octadecabacter",
+    "label": {
+      "en": "Octadecabacter"
+    },
+    "description": {
+      "en": "Octadecabacter"
+    },
+    "aliases": {
+      "en": [
+        "Octadecabacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oenococcus",
+    "label": {
+      "en": "Oenococcus"
+    },
+    "description": {
+      "en": "Oenococcus"
+    },
+    "aliases": {
+      "en": [
+        "Oenococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oleispira",
+    "label": {
+      "en": "Oleispira"
+    },
+    "description": {
+      "en": "Oleispira"
+    },
+    "aliases": {
+      "en": [
+        "Oleispira"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oligella",
+    "label": {
+      "en": "Oligella"
+    },
+    "description": {
+      "en": "Oligella"
+    },
+    "aliases": {
+      "en": [
+        "Oligella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oligotropha",
+    "label": {
+      "en": "Oligotropha"
+    },
+    "description": {
+      "en": "Oligotropha"
+    },
+    "aliases": {
+      "en": [
+        "Oligotropha"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "orientia",
+    "label": {
+      "en": "Orientia"
+    },
+    "description": {
+      "en": "Orientia"
+    },
+    "aliases": {
+      "en": [
+        "Orientia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oxalicibacterium",
+    "label": {
+      "en": "Oxalicibacterium"
+    },
+    "description": {
+      "en": "Oxalicibacterium"
+    },
+    "aliases": {
+      "en": [
+        "Oxalicibacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oxalobacter",
+    "label": {
+      "en": "Oxalobacter"
+    },
+    "description": {
+      "en": "Oxalobacter"
+    },
+    "aliases": {
+      "en": [
+        "Oxalobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "oxalophagus",
+    "label": {
+      "en": "Oxalophagus"
+    },
+    "description": {
+      "en": "Oxalophagus"
+    },
+    "aliases": {
+      "en": [
+        "Oxalophagus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "paenibacillus",
+    "label": {
+      "en": "Paenibacillus"
+    },
+    "description": {
+      "en": "Paenibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Paenibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "paenochrobactrum",
+    "label": {
+      "en": "Paenochrobactrum"
+    },
+    "description": {
+      "en": "Paenochrobactrum"
+    },
+    "aliases": {
+      "en": [
+        "Paenochrobactrum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "palleronia",
+    "label": {
+      "en": "Palleronia"
+    },
+    "description": {
+      "en": "Palleronia"
+    },
+    "aliases": {
+      "en": [
+        "Palleronia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pandoraea",
+    "label": {
+      "en": "Pandoraea"
+    },
+    "description": {
+      "en": "Pandoraea"
+    },
+    "aliases": {
+      "en": [
+        "Pandoraea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pannonibacter",
+    "label": {
+      "en": "Pannonibacter"
+    },
+    "description": {
+      "en": "Pannonibacter"
+    },
+    "aliases": {
+      "en": [
+        "Pannonibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pantoea",
+    "label": {
+      "en": "Pantoea"
+    },
+    "description": {
+      "en": "Pantoea"
+    },
+    "aliases": {
+      "en": [
+        "Pantoea"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "paracoccus",
+    "label": {
+      "en": "Paracoccus"
+    },
+    "description": {
+      "en": "Paracoccus"
+    },
+    "aliases": {
+      "en": [
+        "Paracoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "paraperlucidibaca",
+    "label": {
+      "en": "Paraperlucidibaca"
+    },
+    "description": {
+      "en": "Paraperlucidibaca"
+    },
+    "aliases": {
+      "en": [
+        "Paraperlucidibaca"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pararhizobium",
+    "label": {
+      "en": "Pararhizobium"
+    },
+    "description": {
+      "en": "Pararhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Pararhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "parasutterella",
+    "label": {
+      "en": "Parasutterella"
+    },
+    "description": {
+      "en": "Parasutterella"
+    },
+    "aliases": {
+      "en": [
+        "Parasutterella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "parvibaculum",
+    "label": {
+      "en": "Parvibaculum"
+    },
+    "description": {
+      "en": "Parvibaculum"
+    },
+    "aliases": {
+      "en": [
+        "Parvibaculum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "parvularcula",
+    "label": {
+      "en": "Parvularcula"
+    },
+    "description": {
+      "en": "Parvularcula"
+    },
+    "aliases": {
+      "en": [
+        "Parvularcula"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pasteuria",
+    "label": {
+      "en": "Pasteuria"
+    },
+    "description": {
+      "en": "Pasteuria"
+    },
+    "aliases": {
+      "en": [
+        "Pasteuria"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pectobacterium",
+    "label": {
+      "en": "Pectobacterium"
+    },
+    "description": {
+      "en": "Pectobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Pectobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pedobacter",
+    "label": {
+      "en": "Pedobacter"
+    },
+    "description": {
+      "en": "Pedobacter"
+    },
+    "aliases": {
+      "en": [
+        "Pedobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pedomicrobium",
+    "label": {
+      "en": "Pedomicrobium"
+    },
+    "description": {
+      "en": "Pedomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Pedomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pelistega",
+    "label": {
+      "en": "Pelistega"
+    },
+    "description": {
+      "en": "Pelistega"
+    },
+    "aliases": {
+      "en": [
+        "Pelistega"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pelobacter",
+    "label": {
+      "en": "Pelobacter"
+    },
+    "description": {
+      "en": "Pelobacter"
+    },
+    "aliases": {
+      "en": [
+        "Pelobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pelomonas",
+    "label": {
+      "en": "Pelomonas"
+    },
+    "description": {
+      "en": "Pelomonas"
+    },
+    "aliases": {
+      "en": [
+        "Pelomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "perlucidibaca",
+    "label": {
+      "en": "Perlucidibaca"
+    },
+    "description": {
+      "en": "Perlucidibaca"
+    },
+    "aliases": {
+      "en": [
+        "Perlucidibaca"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "petrobacter",
+    "label": {
+      "en": "Petrobacter"
+    },
+    "description": {
+      "en": "Petrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Petrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "phaeobacter",
+    "label": {
+      "en": "Phaeobacter"
+    },
+    "description": {
+      "en": "Phaeobacter"
+    },
+    "aliases": {
+      "en": [
+        "Phaeobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "photobacterium",
+    "label": {
+      "en": "Photobacterium"
+    },
+    "description": {
+      "en": "Photobacterium"
+    },
+    "aliases": {
+      "en": [
+        "Photobacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "photorhabdus",
+    "label": {
+      "en": "Photorhabdus"
+    },
+    "description": {
+      "en": "Photorhabdus"
+    },
+    "aliases": {
+      "en": [
+        "Photorhabdus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pigmentiphaga",
+    "label": {
+      "en": "Pigmentiphaga"
+    },
+    "description": {
+      "en": "Pigmentiphaga"
+    },
+    "aliases": {
+      "en": [
+        "Pigmentiphaga"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pilibacter",
+    "label": {
+      "en": "Pilibacter"
+    },
+    "description": {
+      "en": "Pilibacter"
+    },
+    "aliases": {
+      "en": [
+        "Pilibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "planktothrix",
+    "label": {
+      "en": "Planktothrix"
+    },
+    "description": {
+      "en": "Planktothrix"
+    },
+    "aliases": {
+      "en": [
+        "Planktothrix"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "planomonospora",
+    "label": {
+      "en": "Planomonospora"
+    },
+    "description": {
+      "en": "Planomonospora"
+    },
+    "aliases": {
+      "en": [
+        "Planomonospora"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pleomorphomonas",
+    "label": {
+      "en": "Pleomorphomonas"
+    },
+    "description": {
+      "en": "Pleomorphomonas"
+    },
+    "aliases": {
+      "en": [
+        "Pleomorphomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "polaromonas",
+    "label": {
+      "en": "Polaromonas"
+    },
+    "description": {
+      "en": "Polaromonas"
+    },
+    "aliases": {
+      "en": [
+        "Polaromonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "polynucleobacter",
+    "label": {
+      "en": "Polynucleobacter"
+    },
+    "description": {
+      "en": "Polynucleobacter"
+    },
+    "aliases": {
+      "en": [
+        "Polynucleobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "propionivibrio",
+    "label": {
+      "en": "Propionivibrio"
+    },
+    "description": {
+      "en": "Propionivibrio"
+    },
+    "aliases": {
+      "en": [
+        "Propionivibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "providencia",
+    "label": {
+      "en": "Providencia"
+    },
+    "description": {
+      "en": "Providencia"
+    },
+    "aliases": {
+      "en": [
+        "Providencia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pseudochrobactrum",
+    "label": {
+      "en": "Pseudochrobactrum"
+    },
+    "description": {
+      "en": "Pseudochrobactrum"
+    },
+    "aliases": {
+      "en": [
+        "Pseudochrobactrum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pseudomonas",
+    "label": {
+      "en": "Pseudomonas"
+    },
+    "description": {
+      "en": "Pseudomonas"
+    },
+    "aliases": {
+      "en": [
+        "Pseudomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pseudorhodobacter",
+    "label": {
+      "en": "Pseudorhodobacter"
+    },
+    "description": {
+      "en": "Pseudorhodobacter"
+    },
+    "aliases": {
+      "en": [
+        "Pseudorhodobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pseudovibrio",
+    "label": {
+      "en": "Pseudovibrio"
+    },
+    "description": {
+      "en": "Pseudovibrio"
+    },
+    "aliases": {
+      "en": [
+        "Pseudovibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "pseudoxanthobacter",
+    "label": {
+      "en": "Pseudoxanthobacter"
+    },
+    "description": {
+      "en": "Pseudoxanthobacter"
+    },
+    "aliases": {
+      "en": [
+        "Pseudoxanthobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "psychrobacter",
+    "label": {
+      "en": "Psychrobacter"
+    },
+    "description": {
+      "en": "Psychrobacter"
+    },
+    "aliases": {
+      "en": [
+        "Psychrobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "psychroflexus",
+    "label": {
+      "en": "Psychroflexus"
+    },
+    "description": {
+      "en": "Psychroflexus"
+    },
+    "aliases": {
+      "en": [
+        "Psychroflexus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "psychroserpens",
+    "label": {
+      "en": "Psychroserpens"
+    },
+    "description": {
+      "en": "Psychroserpens"
+    },
+    "aliases": {
+      "en": [
+        "Psychroserpens"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "quadricoccus",
+    "label": {
+      "en": "Quadricoccus"
+    },
+    "description": {
+      "en": "Quadricoccus"
+    },
+    "aliases": {
+      "en": [
+        "Quadricoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ralstonia",
+    "label": {
+      "en": "Ralstonia"
+    },
+    "description": {
+      "en": "Ralstonia"
+    },
+    "aliases": {
+      "en": [
+        "Ralstonia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "raoultella",
+    "label": {
+      "en": "Raoultella"
+    },
+    "description": {
+      "en": "Raoultella"
+    },
+    "aliases": {
+      "en": [
+        "Raoultella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rathayibacter",
+    "label": {
+      "en": "Rathayibacter"
+    },
+    "description": {
+      "en": "Rathayibacter"
+    },
+    "aliases": {
+      "en": [
+        "Rathayibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhizobium",
+    "label": {
+      "en": "Rhizobium"
+    },
+    "description": {
+      "en": "Rhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Rhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodobaca",
+    "label": {
+      "en": "Rhodobaca"
+    },
+    "description": {
+      "en": "Rhodobaca"
+    },
+    "aliases": {
+      "en": [
+        "Rhodobaca"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodobacter",
+    "label": {
+      "en": "Rhodobacter"
+    },
+    "description": {
+      "en": "Rhodobacter"
+    },
+    "aliases": {
+      "en": [
+        "Rhodobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodobium",
+    "label": {
+      "en": "Rhodobium"
+    },
+    "description": {
+      "en": "Rhodobium"
+    },
+    "aliases": {
+      "en": [
+        "Rhodobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodoblastus",
+    "label": {
+      "en": "Rhodoblastus"
+    },
+    "description": {
+      "en": "Rhodoblastus"
+    },
+    "aliases": {
+      "en": [
+        "Rhodoblastus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodocyclus",
+    "label": {
+      "en": "Rhodocyclus"
+    },
+    "description": {
+      "en": "Rhodocyclus"
+    },
+    "aliases": {
+      "en": [
+        "Rhodocyclus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodoferax",
+    "label": {
+      "en": "Rhodoferax"
+    },
+    "description": {
+      "en": "Rhodoferax"
+    },
+    "aliases": {
+      "en": [
+        "Rhodoferax"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodomicrobium",
+    "label": {
+      "en": "Rhodomicrobium"
+    },
+    "description": {
+      "en": "Rhodomicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Rhodomicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodoplanes",
+    "label": {
+      "en": "Rhodoplanes"
+    },
+    "description": {
+      "en": "Rhodoplanes"
+    },
+    "aliases": {
+      "en": [
+        "Rhodoplanes"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodopseudomonas",
+    "label": {
+      "en": "Rhodopseudomonas"
+    },
+    "description": {
+      "en": "Rhodopseudomonas"
+    },
+    "aliases": {
+      "en": [
+        "Rhodopseudomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodothalassium",
+    "label": {
+      "en": "Rhodothalassium"
+    },
+    "description": {
+      "en": "Rhodothalassium"
+    },
+    "aliases": {
+      "en": [
+        "Rhodothalassium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rhodovulum",
+    "label": {
+      "en": "Rhodovulum"
+    },
+    "description": {
+      "en": "Rhodovulum"
+    },
+    "aliases": {
+      "en": [
+        "Rhodovulum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rickettsia",
+    "label": {
+      "en": "Rickettsia"
+    },
+    "description": {
+      "en": "Rickettsia"
+    },
+    "aliases": {
+      "en": [
+        "Rickettsia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseateles",
+    "label": {
+      "en": "Roseateles"
+    },
+    "description": {
+      "en": "Roseateles"
+    },
+    "aliases": {
+      "en": [
+        "Roseateles"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseibacterium",
+    "label": {
+      "en": "Roseibacterium"
+    },
+    "description": {
+      "en": "Roseibacterium"
+    },
+    "aliases": {
+      "en": [
+        "Roseibacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseibium",
+    "label": {
+      "en": "Roseibium"
+    },
+    "description": {
+      "en": "Roseibium"
+    },
+    "aliases": {
+      "en": [
+        "Roseibium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseicyclus",
+    "label": {
+      "en": "Roseicyclus"
+    },
+    "description": {
+      "en": "Roseicyclus"
+    },
+    "aliases": {
+      "en": [
+        "Roseicyclus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseinatronobacter",
+    "label": {
+      "en": "Roseinatronobacter"
+    },
+    "description": {
+      "en": "Roseinatronobacter"
+    },
+    "aliases": {
+      "en": [
+        "Roseinatronobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseisalinus",
+    "label": {
+      "en": "Roseisalinus"
+    },
+    "description": {
+      "en": "Roseisalinus"
+    },
+    "aliases": {
+      "en": [
+        "Roseisalinus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseivivax",
+    "label": {
+      "en": "Roseivivax"
+    },
+    "description": {
+      "en": "Roseivivax"
+    },
+    "aliases": {
+      "en": [
+        "Roseivivax"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseobacter",
+    "label": {
+      "en": "Roseobacter"
+    },
+    "description": {
+      "en": "Roseobacter"
+    },
+    "aliases": {
+      "en": [
+        "Roseobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseospirillum",
+    "label": {
+      "en": "Roseospirillum"
+    },
+    "description": {
+      "en": "Roseospirillum"
+    },
+    "aliases": {
+      "en": [
+        "Roseospirillum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "roseovarius",
+    "label": {
+      "en": "Roseovarius"
+    },
+    "description": {
+      "en": "Roseovarius"
+    },
+    "aliases": {
+      "en": [
+        "Roseovarius"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "rubrimonas",
+    "label": {
+      "en": "Rubrimonas"
+    },
+    "description": {
+      "en": "Rubrimonas"
+    },
+    "aliases": {
+      "en": [
+        "Rubrimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "ruegeria",
+    "label": {
+      "en": "Ruegeria"
+    },
+    "description": {
+      "en": "Ruegeria"
+    },
+    "aliases": {
+      "en": [
+        "Ruegeria"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "saccharibacter",
+    "label": {
+      "en": "Saccharibacter"
+    },
+    "description": {
+      "en": "Saccharibacter"
+    },
+    "aliases": {
+      "en": [
+        "Saccharibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sagittula",
+    "label": {
+      "en": "Sagittula"
+    },
+    "description": {
+      "en": "Sagittula"
+    },
+    "aliases": {
+      "en": [
+        "Sagittula"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "salinarimonas",
+    "label": {
+      "en": "Salinarimonas"
+    },
+    "description": {
+      "en": "Salinarimonas"
+    },
+    "aliases": {
+      "en": [
+        "Salinarimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "salinicoccus",
+    "label": {
+      "en": "Salinicoccus"
+    },
+    "description": {
+      "en": "Salinicoccus"
+    },
+    "aliases": {
+      "en": [
+        "Salinicoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "salipiger",
+    "label": {
+      "en": "Salipiger"
+    },
+    "description": {
+      "en": "Salipiger"
+    },
+    "aliases": {
+      "en": [
+        "Salipiger"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "salmonella",
+    "label": {
+      "en": "Salmonella"
+    },
+    "description": {
+      "en": "Salmonella"
+    },
+    "aliases": {
+      "en": [
+        "Salmonella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "samsonia",
+    "label": {
+      "en": "Samsonia"
+    },
+    "description": {
+      "en": "Samsonia"
+    },
+    "aliases": {
+      "en": [
+        "Samsonia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "seliberia",
+    "label": {
+      "en": "Seliberia"
+    },
+    "description": {
+      "en": "Seliberia"
+    },
+    "aliases": {
+      "en": [
+        "Seliberia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "serratia",
+    "label": {
+      "en": "Serratia"
+    },
+    "description": {
+      "en": "Serratia"
+    },
+    "aliases": {
+      "en": [
+        "Serratia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "shewanella",
+    "label": {
+      "en": "Shewanella"
+    },
+    "description": {
+      "en": "Shewanella"
+    },
+    "aliases": {
+      "en": [
+        "Shewanella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "shigella",
+    "label": {
+      "en": "Shigella"
+    },
+    "description": {
+      "en": "Shigella"
+    },
+    "aliases": {
+      "en": [
+        "Shigella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "shimwellia",
+    "label": {
+      "en": "Shimwellia"
+    },
+    "description": {
+      "en": "Shimwellia"
+    },
+    "aliases": {
+      "en": [
+        "Shimwellia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "silicibacter",
+    "label": {
+      "en": "Silicibacter"
+    },
+    "description": {
+      "en": "Silicibacter"
+    },
+    "aliases": {
+      "en": [
+        "Silicibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sinorhizobium",
+    "label": {
+      "en": "Sinorhizobium"
+    },
+    "description": {
+      "en": "Sinorhizobium"
+    },
+    "aliases": {
+      "en": [
+        "Sinorhizobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "slackia",
+    "label": {
+      "en": "Slackia"
+    },
+    "description": {
+      "en": "Slackia"
+    },
+    "aliases": {
+      "en": [
+        "Slackia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sodalis",
+    "label": {
+      "en": "Sodalis"
+    },
+    "description": {
+      "en": "Sodalis"
+    },
+    "aliases": {
+      "en": [
+        "Sodalis"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sphaerobacter",
+    "label": {
+      "en": "Sphaerobacter"
+    },
+    "description": {
+      "en": "Sphaerobacter"
+    },
+    "aliases": {
+      "en": [
+        "Sphaerobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sphingobium",
+    "label": {
+      "en": "Sphingobium"
+    },
+    "description": {
+      "en": "Sphingobium"
+    },
+    "aliases": {
+      "en": [
+        "Sphingobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "spirillum",
+    "label": {
+      "en": "Spirillum"
+    },
+    "description": {
+      "en": "Spirillum"
+    },
+    "aliases": {
+      "en": [
+        "Spirillum"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sporolactobacillus",
+    "label": {
+      "en": "Sporolactobacillus"
+    },
+    "description": {
+      "en": "Sporolactobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Sporolactobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "staphylococcus",
+    "label": {
+      "en": "Staphylococcus"
+    },
+    "description": {
+      "en": "Staphylococcus"
+    },
+    "aliases": {
+      "en": [
+        "Staphylococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "stappia",
+    "label": {
+      "en": "Stappia"
+    },
+    "description": {
+      "en": "Stappia"
+    },
+    "aliases": {
+      "en": [
+        "Stappia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "starkeya",
+    "label": {
+      "en": "Starkeya"
+    },
+    "description": {
+      "en": "Starkeya"
+    },
+    "aliases": {
+      "en": [
+        "Starkeya"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sterolibacterium",
+    "label": {
+      "en": "Sterolibacterium"
+    },
+    "description": {
+      "en": "Sterolibacterium"
+    },
+    "aliases": {
+      "en": [
+        "Sterolibacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "streptobacillus",
+    "label": {
+      "en": "Streptobacillus"
+    },
+    "description": {
+      "en": "Streptobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Streptobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "streptococcus",
+    "label": {
+      "en": "Streptococcus"
+    },
+    "description": {
+      "en": "Streptococcus"
+    },
+    "aliases": {
+      "en": [
+        "Streptococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "streptomyces",
+    "label": {
+      "en": "Streptomyces"
+    },
+    "description": {
+      "en": "Streptomyces"
+    },
+    "aliases": {
+      "en": [
+        "Streptomyces"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sulfitobacter",
+    "label": {
+      "en": "Sulfitobacter"
+    },
+    "description": {
+      "en": "Sulfitobacter"
+    },
+    "aliases": {
+      "en": [
+        "Sulfitobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sulfurimonas",
+    "label": {
+      "en": "Sulfurimonas"
+    },
+    "description": {
+      "en": "Sulfurimonas"
+    },
+    "aliases": {
+      "en": [
+        "Sulfurimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "sutterella",
+    "label": {
+      "en": "Sutterella"
+    },
+    "description": {
+      "en": "Sutterella"
+    },
+    "aliases": {
+      "en": [
+        "Sutterella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "syntrophobacter",
+    "label": {
+      "en": "Syntrophobacter"
+    },
+    "description": {
+      "en": "Syntrophobacter"
+    },
+    "aliases": {
+      "en": [
+        "Syntrophobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tamlana",
+    "label": {
+      "en": "Tamlana"
+    },
+    "description": {
+      "en": "Tamlana"
+    },
+    "aliases": {
+      "en": [
+        "Tamlana"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tardiphaga",
+    "label": {
+      "en": "Tardiphaga"
+    },
+    "description": {
+      "en": "Tardiphaga"
+    },
+    "aliases": {
+      "en": [
+        "Tardiphaga"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "taylorella",
+    "label": {
+      "en": "Taylorella"
+    },
+    "description": {
+      "en": "Taylorella"
+    },
+    "aliases": {
+      "en": [
+        "Taylorella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "telluria",
+    "label": {
+      "en": "Telluria"
+    },
+    "description": {
+      "en": "Telluria"
+    },
+    "aliases": {
+      "en": [
+        "Telluria"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "telmatobacter",
+    "label": {
+      "en": "Telmatobacter"
+    },
+    "description": {
+      "en": "Telmatobacter"
+    },
+    "aliases": {
+      "en": [
+        "Telmatobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tepidamorphus",
+    "label": {
+      "en": "Tepidamorphus"
+    },
+    "description": {
+      "en": "Tepidamorphus"
+    },
+    "aliases": {
+      "en": [
+        "Tepidamorphus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tepidimonas",
+    "label": {
+      "en": "Tepidimonas"
+    },
+    "description": {
+      "en": "Tepidimonas"
+    },
+    "aliases": {
+      "en": [
+        "Tepidimonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "terasakiella",
+    "label": {
+      "en": "Terasakiella"
+    },
+    "description": {
+      "en": "Terasakiella"
+    },
+    "aliases": {
+      "en": [
+        "Terasakiella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tetracoccus",
+    "label": {
+      "en": "Tetracoccus"
+    },
+    "description": {
+      "en": "Tetracoccus"
+    },
+    "aliases": {
+      "en": [
+        "Tetracoccus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tetrasphaera",
+    "label": {
+      "en": "Tetrasphaera"
+    },
+    "description": {
+      "en": "Tetrasphaera"
+    },
+    "aliases": {
+      "en": [
+        "Tetrasphaera"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tetrathiobacter",
+    "label": {
+      "en": "Tetrathiobacter"
+    },
+    "description": {
+      "en": "Tetrathiobacter"
+    },
+    "aliases": {
+      "en": [
+        "Tetrathiobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thalassobacter",
+    "label": {
+      "en": "Thalassobacter"
+    },
+    "description": {
+      "en": "Thalassobacter"
+    },
+    "aliases": {
+      "en": [
+        "Thalassobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thalassobius",
+    "label": {
+      "en": "Thalassobius"
+    },
+    "description": {
+      "en": "Thalassobius"
+    },
+    "aliases": {
+      "en": [
+        "Thalassobius"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thauera",
+    "label": {
+      "en": "Thauera"
+    },
+    "description": {
+      "en": "Thauera"
+    },
+    "aliases": {
+      "en": [
+        "Thauera"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thermicanus",
+    "label": {
+      "en": "Thermicanus"
+    },
+    "description": {
+      "en": "Thermicanus"
+    },
+    "aliases": {
+      "en": [
+        "Thermicanus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thermosinus",
+    "label": {
+      "en": "Thermosinus"
+    },
+    "description": {
+      "en": "Thermosinus"
+    },
+    "aliases": {
+      "en": [
+        "Thermosinus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thermothrix",
+    "label": {
+      "en": "Thermothrix"
+    },
+    "description": {
+      "en": "Thermothrix"
+    },
+    "aliases": {
+      "en": [
+        "Thermothrix"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thermotoga",
+    "label": {
+      "en": "Thermotoga"
+    },
+    "description": {
+      "en": "Thermotoga"
+    },
+    "aliases": {
+      "en": [
+        "Thermotoga"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thermus",
+    "label": {
+      "en": "Thermus"
+    },
+    "description": {
+      "en": "Thermus"
+    },
+    "aliases": {
+      "en": [
+        "Thermus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thioalkalimicrobium",
+    "label": {
+      "en": "Thioalkalimicrobium"
+    },
+    "description": {
+      "en": "Thioalkalimicrobium"
+    },
+    "aliases": {
+      "en": [
+        "Thioalkalimicrobium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thioalkalivibrio",
+    "label": {
+      "en": "Thioalkalivibrio"
+    },
+    "description": {
+      "en": "Thioalkalivibrio"
+    },
+    "aliases": {
+      "en": [
+        "Thioalkalivibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thiobacillus",
+    "label": {
+      "en": "Thiobacillus"
+    },
+    "description": {
+      "en": "Thiobacillus"
+    },
+    "aliases": {
+      "en": [
+        "Thiobacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thioclava",
+    "label": {
+      "en": "Thioclava"
+    },
+    "description": {
+      "en": "Thioclava"
+    },
+    "aliases": {
+      "en": [
+        "Thioclava"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thiomonas",
+    "label": {
+      "en": "Thiomonas"
+    },
+    "description": {
+      "en": "Thiomonas"
+    },
+    "aliases": {
+      "en": [
+        "Thiomonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "thorselliaceae",
+    "label": {
+      "en": "Thorselliaceae"
+    },
+    "description": {
+      "en": "Thorselliaceae"
+    },
+    "aliases": {
+      "en": [
+        "Thorselliaceae"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tistrella",
+    "label": {
+      "en": "Tistrella"
+    },
+    "description": {
+      "en": "Tistrella"
+    },
+    "aliases": {
+      "en": [
+        "Tistrella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "tolumonas",
+    "label": {
+      "en": "Tolumonas"
+    },
+    "description": {
+      "en": "Tolumonas"
+    },
+    "aliases": {
+      "en": [
+        "Tolumonas"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "turicibacter",
+    "label": {
+      "en": "Turicibacter"
+    },
+    "description": {
+      "en": "Turicibacter"
+    },
+    "aliases": {
+      "en": [
+        "Turicibacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "undibacterium",
+    "label": {
+      "en": "Undibacterium"
+    },
+    "description": {
+      "en": "Undibacterium"
+    },
+    "aliases": {
+      "en": [
+        "Undibacterium"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "vagococcus",
+    "label": {
+      "en": "Vagococcus"
+    },
+    "description": {
+      "en": "Vagococcus"
+    },
+    "aliases": {
+      "en": [
+        "Vagococcus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "variovorax",
+    "label": {
+      "en": "Variovorax"
+    },
+    "description": {
+      "en": "Variovorax"
+    },
+    "aliases": {
+      "en": [
+        "Variovorax"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "veillonella",
+    "label": {
+      "en": "Veillonella"
+    },
+    "description": {
+      "en": "Veillonella"
+    },
+    "aliases": {
+      "en": [
+        "Veillonella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "vibrio",
+    "label": {
+      "en": "Vibrio"
+    },
+    "description": {
+      "en": "Vibrio"
+    },
+    "aliases": {
+      "en": [
+        "Vibrio"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "virgibacillus",
+    "label": {
+      "en": "Virgibacillus"
+    },
+    "description": {
+      "en": "Virgibacillus"
+    },
+    "aliases": {
+      "en": [
+        "Virgibacillus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "vitreoscilla",
+    "label": {
+      "en": "Vitreoscilla"
+    },
+    "description": {
+      "en": "Vitreoscilla"
+    },
+    "aliases": {
+      "en": [
+        "Vitreoscilla"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "weissella",
+    "label": {
+      "en": "Weissella"
+    },
+    "description": {
+      "en": "Weissella"
+    },
+    "aliases": {
+      "en": [
+        "Weissella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "wolbachia",
+    "label": {
+      "en": "Wolbachia"
+    },
+    "description": {
+      "en": "Wolbachia"
+    },
+    "aliases": {
+      "en": [
+        "Wolbachia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "wolinella",
+    "label": {
+      "en": "Wolinella"
+    },
+    "description": {
+      "en": "Wolinella"
+    },
+    "aliases": {
+      "en": [
+        "Wolinella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "xanthobacter",
+    "label": {
+      "en": "Xanthobacter"
+    },
+    "description": {
+      "en": "Xanthobacter"
+    },
+    "aliases": {
+      "en": [
+        "Xanthobacter"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "xenorhabdus",
+    "label": {
+      "en": "Xenorhabdus"
+    },
+    "description": {
+      "en": "Xenorhabdus"
+    },
+    "aliases": {
+      "en": [
+        "Xenorhabdus"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "yangia",
+    "label": {
+      "en": "Yangia"
+    },
+    "description": {
+      "en": "Yangia"
+    },
+    "aliases": {
+      "en": [
+        "Yangia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "yersinia",
+    "label": {
+      "en": "Yersinia"
+    },
+    "description": {
+      "en": "Yersinia"
+    },
+    "aliases": {
+      "en": [
+        "Yersinia"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "yokenella",
+    "label": {
+      "en": "Yokenella"
+    },
+    "description": {
+      "en": "Yokenella"
+    },
+    "aliases": {
+      "en": [
+        "Yokenella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "zhihengliuella",
+    "label": {
+      "en": "Zhihengliuella"
+    },
+    "description": {
+      "en": "Zhihengliuella"
+    },
+    "aliases": {
+      "en": [
+        "Zhihengliuella"
+      ]
+    },
+    "category": "genus"
+  },
+  {
+    "id": "zoogloea",
+    "label": {
+      "en": "Zoogloea"
+    },
+    "description": {
+      "en": "Zoogloea"
+    },
+    "aliases": {
+      "en": [
+        "Zoogloea"
+      ]
+    },
+    "category": "genus"
+  }
+]
